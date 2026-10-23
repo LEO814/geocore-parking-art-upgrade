@@ -1,7 +1,12 @@
 {
-  "requestedVisibility": "private",
-  "proposedRepositoryName": "geocore-parking-art-upgrade",
-  "status": "pending-github-account-connection",
-  "url": null,
-  "uploaded": false
+  "status": "uploaded-and-initial-tree-verified",
+  "uploaded": true,
+  "repository": "LEO814/geocore-parking-art-upgrade",
+  "url": "https://github.com/LEO814/geocore-parking-art-upgrade",
+  "private": true,
+  "branch": "codex/parking-art-upgrade",
+  "verifiedCommit": "57d707f5e5393ca3519761f848a84d9743a75b6d",
+  "verifiedFileCount": 188,
+  "allGitBlobHashesMatch": true,
+  "verifiedAt": "2026-10-23T10:02:27.215382+00:00"
 }
