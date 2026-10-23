@@ -1,0 +1,62 @@
+[
+  {
+    "type": "existing-project-audio-module",
+    "scriptId": "6508743e-cde2-4525-8000-1268d8edf32d",
+    "referencePath": "modules/halloween-bgm-data-01.lua",
+    "reason": "Sound data outside the model upgrade scope; retain the existing project module."
+  },
+  {
+    "type": "existing-project-audio-module",
+    "scriptId": "7921c415-c884-4346-b3e6-40ef915f95f4",
+    "referencePath": "modules/halloween-bgm-data-02.lua",
+    "reason": "Sound data outside the model upgrade scope; retain the existing project module."
+  },
+  {
+    "type": "existing-project-audio-module",
+    "scriptId": "f8998a92-5b57-4542-a135-c5994dd7bdd8",
+    "referencePath": "modules/halloween-bgm-data-03.lua",
+    "reason": "Sound data outside the model upgrade scope; retain the existing project module."
+  },
+  {
+    "type": "existing-project-audio-module",
+    "scriptId": "05f8d212-62e4-4b83-a8f6-2796243a2b45",
+    "referencePath": "modules/halloween-bgm-data-04.lua",
+    "reason": "Sound data outside the model upgrade scope; retain the existing project module."
+  },
+  {
+    "type": "existing-project-audio-module",
+    "scriptId": "44091d47-2e55-4d5d-9a5e-0b0cbeef50b9",
+    "referencePath": "modules/halloween-bgm-data-05.lua",
+    "reason": "Sound data outside the model upgrade scope; retain the existing project module."
+  },
+  {
+    "type": "existing-project-audio-module",
+    "scriptId": "dc10f17c-90e9-4e18-9a45-e4d8f25f4a00",
+    "referencePath": "modules/halloween-bgm-data-06.lua",
+    "reason": "Sound data outside the model upgrade scope; retain the existing project module."
+  },
+  {
+    "type": "existing-project-audio-module",
+    "scriptId": "798c1112-69a8-474f-8c87-722dd4309666",
+    "referencePath": "modules/halloween-bgm-data-07.lua",
+    "reason": "Sound data outside the model upgrade scope; retain the existing project module."
+  },
+  {
+    "type": "existing-project-audio-module",
+    "scriptId": "b11be6d4-22ac-49f2-9393-db11bfbd6d92",
+    "referencePath": "modules/halloween-bgm-data-08.lua",
+    "reason": "Sound data outside the model upgrade scope; retain the existing project module."
+  },
+  {
+    "type": "existing-project-audio-module",
+    "scriptId": "18b058a0-2a9d-4d87-a6c7-dc87e89760df",
+    "referencePath": "modules/race-countdown-audio-bank.lua",
+    "reason": "Sound data outside the model upgrade scope; retain the existing project module."
+  },
+  {
+    "type": "existing-project-audio-module",
+    "scriptId": "f8a36c92-1639-4629-8b3f-4f36aa49a5f6",
+    "referencePath": "modules/race-engine-audio-bank.lua",
+    "reason": "Sound data outside the model upgrade scope; retain the existing project module."
+  }
+]

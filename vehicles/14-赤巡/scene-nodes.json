@@ -1,0 +1,459 @@
+[
+  {
+    "nodeName": "赤巡",
+    "pos": {
+      "x": 158.087784,
+      "y": 52.26828,
+      "z": -11.8243618
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.6,
+      "y": 0.6,
+      "z": 0.6
+    },
+    "tag": "Untagged",
+    "aigcModelData": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/FLAME_MOTO_Body_Part_01_0907_7d2c6119__upload_jwarsrcu.glb",
+      "meshRefId": 0,
+      "isShowTex": true,
+      "opType": 4
+    },
+    "terrainDisplayData": null,
+    "waterDisplayData": null,
+    "riverDisplayData": null,
+    "waterBodyAuthoringData": null,
+    "localPrefabData": null,
+    "appearanceData": {
+      "presetName": "Default",
+      "color": {
+        "r": 1.0,
+        "g": 0.301960677,
+        "b": 0.0235294122,
+        "a": 1.0
+      },
+      "emissionColor": {
+        "r": 1.0,
+        "g": 0.0409151763,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "metallic": 0.0,
+      "roughness": 0.5,
+      "emissionPower": 1.0,
+      "useTriplanarSample": false,
+      "visible": true,
+      "castShadows": true,
+      "isModified": true,
+      "waterDualColor": {
+        "color1": {
+          "r": 0.0,
+          "g": 0.8784314,
+          "b": 0.8666667,
+          "a": 1.0
+        },
+        "color2": {
+          "r": 0.0,
+          "g": 0.447058827,
+          "b": 0.549019635,
+          "a": 1.0
+        }
+      },
+      "transparency": 1.0,
+      "waveDensity": 1.0,
+      "waveSpeed": 1.0,
+      "waveDirection": 0.0
+    },
+    "waterAppearanceData": null,
+    "physicsColliderData": {
+      "enableCollision": true,
+      "dynamicFriction": 0.6,
+      "staticFriction": 0.6,
+      "bounciness": 0.0,
+      "enableRigidBody": true,
+      "mass": 100.0,
+      "drag": 0.45,
+      "angularDrag": 9.0,
+      "useGravity": true,
+      "isKinematic": false
+    },
+    "assetData": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/FLAME_MOTO_Body_Part_01_0907_7d2c6119__upload_jwarsrcu.glb",
+      "assetID": "9447137283074"
+    },
+    "animatorData": null,
+    "ugcAnimatorData": null,
+    "glbSliceData": {
+      "sourceUri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/FLAME_MOTO_Body_Part_01_0907_7d2c6119__upload_jwarsrcu.glb",
+      "sourceMeshRefId": 0,
+      "slicePath": [],
+      "debugSlicePath": "",
+      "isShowTex": true,
+      "opType": 4
+    },
+    "editorOnlyData": {
+      "isLock": false,
+      "isGroupRoot": false,
+      "editorData": "{\"isTransformScaleLocked\":true}"
+    },
+    "lightData": null,
+    "text3DData": null,
+    "billboardPlantData": null,
+    "runtimeScriptBindings": [
+      {
+        "scriptId": "ce1504dd-0a40-4a70-87e3-c8175dc6e9f2",
+        "scriptType": 1,
+        "paramsJson": "{\"driverTaken\":false,\"frontPassengerTaken\":false,\"driverOccupantActorId\":0,\"frontPassengerOccupantActorId\":0,\"raceResetCompletedCycleId\":\"\",\"raceResetPhysicalClaimCycleId\":\"\",\"raceResetPhysicalDoneCycleId\":\"\",\"rearLeftTaken\":false,\"rearRightTaken\":false,\"topSpeed\":32,\"acceleration\":23,\"braking\":28,\"turnSpeed\":66,\"grip\":0.91,\"cameraFollowEnabled\":true,\"reverseSpeed\":4,\"coastingDrag\":4,\"sidewaysFriction\":10,\"cameraAlignSpeed\":120,\"cameraAlignGrace\":0.45,\"raceSessionStageSnapshot\":\"\"}"
+      },
+      {
+        "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+        "scriptType": 1,
+        "paramsJson": "{}"
+      }
+    ],
+    "id": 433861336,
+    "parentId": 0,
+    "isActive": true,
+    "layer": 9,
+    "isGameMod": false,
+    "isStatic": false
+  },
+  {
+    "nodeName": "FLAME_MOTO_Wheel_F_Part_01",
+    "pos": {
+      "x": 158.087784,
+      "y": 52.43532,
+      "z": -11.4501753
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "tag": "Untagged",
+    "aigcModelData": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/FLAME_MOTO_Wheel_F_Part_01_0907_1f6faeb8__upload_f4brmyqb.glb",
+      "meshRefId": 0,
+      "isShowTex": true,
+      "opType": 4
+    },
+    "terrainDisplayData": null,
+    "waterDisplayData": null,
+    "riverDisplayData": null,
+    "waterBodyAuthoringData": null,
+    "localPrefabData": null,
+    "appearanceData": {
+      "presetName": "Default",
+      "color": {
+        "r": 1.0,
+        "g": 0.301960677,
+        "b": 0.0235294122,
+        "a": 1.0
+      },
+      "emissionColor": {
+        "r": 1.0,
+        "g": 0.0409151763,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "metallic": 0.0,
+      "roughness": 0.5,
+      "emissionPower": 1.0,
+      "useTriplanarSample": false,
+      "visible": true,
+      "castShadows": true,
+      "isModified": true,
+      "waterDualColor": {
+        "color1": {
+          "r": 0.0,
+          "g": 0.8784314,
+          "b": 0.8666667,
+          "a": 1.0
+        },
+        "color2": {
+          "r": 0.0,
+          "g": 0.447058827,
+          "b": 0.549019635,
+          "a": 1.0
+        }
+      },
+      "transparency": 1.0,
+      "waveDensity": 1.0,
+      "waveSpeed": 1.0,
+      "waveDirection": 0.0
+    },
+    "waterAppearanceData": null,
+    "physicsColliderData": {
+      "enableCollision": false,
+      "dynamicFriction": 0.6,
+      "staticFriction": 0.6,
+      "bounciness": 0.0,
+      "enableRigidBody": false,
+      "mass": 0.0537282154,
+      "drag": 0.0,
+      "angularDrag": 0.0,
+      "useGravity": false,
+      "isKinematic": false
+    },
+    "assetData": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/FLAME_MOTO_Wheel_F_Part_01_0907_1f6faeb8__upload_f4brmyqb.glb",
+      "assetID": "9376488970498"
+    },
+    "animatorData": null,
+    "ugcAnimatorData": null,
+    "glbSliceData": {
+      "sourceUri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/FLAME_MOTO_Wheel_F_Part_01_0907_1f6faeb8__upload_f4brmyqb.glb",
+      "sourceMeshRefId": 0,
+      "slicePath": [],
+      "debugSlicePath": "",
+      "isShowTex": true,
+      "opType": 4
+    },
+    "editorOnlyData": {
+      "isLock": false,
+      "isGroupRoot": false,
+      "editorData": ""
+    },
+    "lightData": null,
+    "text3DData": null,
+    "billboardPlantData": null,
+    "id": -920211301,
+    "parentId": 433861336,
+    "isActive": true,
+    "layer": 9,
+    "isGameMod": false,
+    "isStatic": false
+  },
+  {
+    "nodeName": "FLAME_MOTO_Wheel_R_Part_01",
+    "pos": {
+      "x": 158.087784,
+      "y": 52.44576,
+      "z": -12.1600952
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "tag": "Untagged",
+    "aigcModelData": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/FLAME_MOTO_Wheel_R_Part_01_0907_f925e2d8__upload_bmf9a19i.glb",
+      "meshRefId": 0,
+      "isShowTex": true,
+      "opType": 4
+    },
+    "terrainDisplayData": null,
+    "waterDisplayData": null,
+    "riverDisplayData": null,
+    "waterBodyAuthoringData": null,
+    "localPrefabData": null,
+    "appearanceData": {
+      "presetName": "Default",
+      "color": {
+        "r": 1.0,
+        "g": 0.301960677,
+        "b": 0.0235294122,
+        "a": 1.0
+      },
+      "emissionColor": {
+        "r": 1.0,
+        "g": 0.0409151763,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "metallic": 0.0,
+      "roughness": 0.5,
+      "emissionPower": 1.0,
+      "useTriplanarSample": false,
+      "visible": true,
+      "castShadows": true,
+      "isModified": true,
+      "waterDualColor": {
+        "color1": {
+          "r": 0.0,
+          "g": 0.8784314,
+          "b": 0.8666667,
+          "a": 1.0
+        },
+        "color2": {
+          "r": 0.0,
+          "g": 0.447058827,
+          "b": 0.549019635,
+          "a": 1.0
+        }
+      },
+      "transparency": 1.0,
+      "waveDensity": 1.0,
+      "waveSpeed": 1.0,
+      "waveDirection": 0.0
+    },
+    "waterAppearanceData": null,
+    "physicsColliderData": {
+      "enableCollision": false,
+      "dynamicFriction": 0.6,
+      "staticFriction": 0.6,
+      "bounciness": 0.0,
+      "enableRigidBody": false,
+      "mass": 0.07307714,
+      "drag": 0.0,
+      "angularDrag": 0.0,
+      "useGravity": false,
+      "isKinematic": false
+    },
+    "assetData": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/FLAME_MOTO_Wheel_R_Part_01_0907_f925e2d8__upload_bmf9a19i.glb",
+      "assetID": "9409221133570"
+    },
+    "animatorData": null,
+    "ugcAnimatorData": null,
+    "glbSliceData": {
+      "sourceUri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/FLAME_MOTO_Wheel_R_Part_01_0907_f925e2d8__upload_bmf9a19i.glb",
+      "sourceMeshRefId": 0,
+      "slicePath": [],
+      "debugSlicePath": "",
+      "isShowTex": true,
+      "opType": 4
+    },
+    "editorOnlyData": {
+      "isLock": false,
+      "isGroupRoot": false,
+      "editorData": ""
+    },
+    "lightData": null,
+    "text3DData": null,
+    "billboardPlantData": null,
+    "id": -1061746795,
+    "parentId": 433861336,
+    "isActive": true,
+    "layer": 9,
+    "isGameMod": false,
+    "isStatic": false
+  },
+  {
+    "nodeName": "SeatStation_FrontPassenger",
+    "pos": {
+      "x": 158.087784,
+      "y": 52.69284,
+      "z": -12.0800552
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.03,
+      "y": 0.03,
+      "z": 0.03
+    },
+    "tag": "Untagged",
+    "aigcModelData": null,
+    "terrainDisplayData": null,
+    "waterDisplayData": null,
+    "riverDisplayData": null,
+    "waterBodyAuthoringData": null,
+    "localPrefabData": {
+      "refPrefabId": -997383603
+    },
+    "appearanceData": {
+      "presetName": "Default",
+      "color": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 1.0
+      },
+      "emissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "metallic": 0.0,
+      "roughness": 0.5,
+      "emissionPower": 1.0,
+      "useTriplanarSample": false,
+      "visible": false,
+      "castShadows": false,
+      "isModified": true,
+      "waterDualColor": {
+        "color1": {
+          "r": 0.0,
+          "g": 0.8784314,
+          "b": 0.8666667,
+          "a": 1.0
+        },
+        "color2": {
+          "r": 0.0,
+          "g": 0.447058827,
+          "b": 0.549019635,
+          "a": 1.0
+        }
+      },
+      "transparency": 1.0,
+      "waveDensity": 1.0,
+      "waveSpeed": 1.0,
+      "waveDirection": 0.0
+    },
+    "waterAppearanceData": null,
+    "physicsColliderData": {
+      "enableCollision": false,
+      "dynamicFriction": 0.6,
+      "staticFriction": 0.6,
+      "bounciness": 0.0,
+      "enableRigidBody": false,
+      "mass": 1.0,
+      "drag": 0.0,
+      "angularDrag": 0.0,
+      "useGravity": false,
+      "isKinematic": false
+    },
+    "assetData": {
+      "uri": "方块",
+      "assetID": "3"
+    },
+    "animatorData": null,
+    "ugcAnimatorData": null,
+    "glbSliceData": null,
+    "editorOnlyData": {
+      "isLock": false,
+      "isGroupRoot": false,
+      "editorData": ""
+    },
+    "lightData": null,
+    "text3DData": null,
+    "billboardPlantData": null,
+    "runtimeScriptBindings": [
+      {
+        "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+        "scriptType": 1,
+        "paramsJson": "{\"seatId\":\"front_passenger\",\"vehicleScriptName\":\"ce1504dd-0a40-4a70-87e3-c8175dc6e9f2\"}"
+      }
+    ],
+    "id": -1219332678,
+    "parentId": 433861336,
+    "isActive": true,
+    "layer": 9,
+    "isGameMod": false,
+    "isStatic": false
+  }
+]

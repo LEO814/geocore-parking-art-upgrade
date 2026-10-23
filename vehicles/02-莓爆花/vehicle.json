@@ -1,0 +1,173 @@
+{
+  "name": "莓爆花",
+  "rootId": -124228186,
+  "rootTransform": {
+    "pos": {
+      "x": 186.087784,
+      "y": 52.26828,
+      "z": -11.8243618
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  "driverScript": {
+    "nodeId": -124228186,
+    "nodeName": "莓爆花",
+    "rootName": "莓爆花",
+    "scriptId": "0a670ab9-e842-4180-83ac-1ff209bfa4ec",
+    "scriptType": 1,
+    "referencePath": "modules/pi-lp39-berry-pop.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "topSpeed": 30.5,
+      "acceleration": 21,
+      "braking": 29,
+      "turnSpeed": 72,
+      "grip": 0.95,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 8,
+      "sidewaysFriction": 12,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  "seatCount": 2,
+  "seatConfigLua": "local seatConfigs = {\n  { id = \"driver\", label = \"驾驶·左\", anchorPath = \"SeatAnchor_Driver\", canDrive = true, fallbackPosition = Vector3(-0.104981313917, 0.349937713057, -0.0233291808705) },\n  { id = \"front_passenger\", label = \"乘坐·右\", anchorPath = \"SeatAnchor_FrontPassenger\", stationPath = \"SeatStation_FrontPassenger\", canDrive = false, fallbackPosition = Vector3(0.104981313917, 0.349937713057, -0.0233291808705) },\n}",
+  "wheelConfigLua": "local wheelConfigs = {\n  { name = \"LP39_Wheel_FL\", radius = 0.189549594573, pivot = Vector3(-0.344105417839, 0.189549594573, 0.26828558001), visualScale = Vector3(0.37909917524, 0.37909917524, 0.37909917524), parts = { \"LP39_RACERPOP_Wheel_FL_Part_01\" } },\n  { name = \"LP39_Wheel_FR\", radius = 0.189549594573, pivot = Vector3(0.344105417839, 0.189549594573, 0.26828558001), visualScale = Vector3(0.37909917524, 0.37909917524, 0.37909917524), parts = { \"LP39_RACERPOP_Wheel_FR_Part_01\" } },\n  { name = \"LP39_Wheel_RL\", radius = 0.189549594573, pivot = Vector3(-0.344105417839, 0.189549594573, -0.26828558001), visualScale = Vector3(0.37909917524, 0.37909917524, 0.37909917524), parts = { \"LP39_RACERPOP_Wheel_RL_Part_01\" } },\n  { name = \"LP39_Wheel_RR\", radius = 0.189549594573, pivot = Vector3(0.344105417839, 0.189549594573, -0.26828558001), visualScale = Vector3(0.37909917524, 0.37909917524, 0.37909917524), parts = { \"LP39_RACERPOP_Wheel_RR_Part_01\" } },\n}",
+  "materialIdentity": {
+    "name": "莓爆花",
+    "parts": [
+      {
+        "name": "莓爆花",
+        "subMeshes": 40,
+        "mats": [
+          11,
+          12,
+          13,
+          11,
+          14,
+          14,
+          15,
+          15,
+          15,
+          16,
+          15,
+          16,
+          15,
+          15,
+          14,
+          14,
+          14,
+          15,
+          15,
+          15,
+          15,
+          15,
+          15,
+          11,
+          11,
+          11,
+          11,
+          11,
+          11,
+          11,
+          11,
+          11,
+          14,
+          11,
+          11,
+          14,
+          14,
+          14,
+          14,
+          14
+        ],
+        "vertices": 9996
+      },
+      {
+        "name": "LP39_RACERPOP_Wheel_FL_Part_01",
+        "subMeshes": 8,
+        "mats": [
+          17,
+          18,
+          19,
+          18,
+          18,
+          18,
+          18,
+          18
+        ],
+        "vertices": 1211
+      },
+      {
+        "name": "LP39_RACERPOP_Wheel_FR_Part_01",
+        "subMeshes": 8,
+        "mats": [
+          17,
+          18,
+          19,
+          18,
+          18,
+          18,
+          18,
+          18
+        ],
+        "vertices": 1211
+      },
+      {
+        "name": "LP39_RACERPOP_Wheel_RL_Part_01",
+        "subMeshes": 8,
+        "mats": [
+          17,
+          18,
+          19,
+          18,
+          18,
+          18,
+          18,
+          18
+        ],
+        "vertices": 1211
+      },
+      {
+        "name": "LP39_RACERPOP_Wheel_RR_Part_01",
+        "subMeshes": 8,
+        "mats": [
+          17,
+          18,
+          19,
+          18,
+          18,
+          18,
+          18,
+          18
+        ],
+        "vertices": 1211
+      }
+    ]
+  },
+  "assetFiles": [
+    "models/catalog/A008-14-berry-pop--racerpop-counterpart-runtime-v1.glb",
+    "models/catalog/A009-LP39_RACERPOP-fl-01-of-01.glb",
+    "models/catalog/A010-LP39_RACERPOP-fr-01-of-01.glb",
+    "models/catalog/A011-LP39_RACERPOP-rl-01-of-01.glb",
+    "models/catalog/A012-LP39_RACERPOP-rr-01-of-01.glb"
+  ]
+}

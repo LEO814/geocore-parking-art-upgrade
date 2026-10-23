@@ -1,0 +1,24 @@
+{
+  "source": {
+    "file": "紫月古堡-全景适配.png",
+    "width": 1774,
+    "height": 887,
+    "mode": "RGB",
+    "bytes": 1900693,
+    "sha256": "67ded5b28bcae2393f0eb2f6c08f4d947a2f8a53c5136d28246525d51516ba62"
+  },
+  "referencedTga": {
+    "assetName": "Geocore_VioletMoon_Citadel_20261021_V2__upload_hywsbmcs.tga",
+    "width": 1774,
+    "height": 887,
+    "mode": "RGB",
+    "bytes": 4720632,
+    "sha256": "8c1508b2d07673e49119d177a0add96d4570661555cf0d71c4c8050f9267d086"
+  },
+  "decodedPixelsMatch": true,
+  "currentSavedEnvironmentReferencesTga": true,
+  "runtimeMobileTextureSize": "not-measured",
+  "runtimeMobileTextureFormat": "not-measured",
+  "runtimeMobileMipLevel": "not-measured",
+  "reportScope": "read-only file and image inspection, primary-source web research; no project changes and no enhancement image generated"
+}

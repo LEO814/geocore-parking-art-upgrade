@@ -1,0 +1,326 @@
+[
+  {
+    "scriptId": "09e55e7e-926a-4f36-af12-dd4ba8bb26ae",
+    "file": "lua/modules/geocore-distance-detail.lua",
+    "referencePath": "modules/geocore-distance-detail.lua",
+    "sha256": "bf8c120775fa1dca95e9229d2e9f8b2a0c3c51f70c5fce9143de7ba2da80e001",
+    "bytes": 2745,
+    "boundInParking": false,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "88e3278d-79d2-421b-899d-743901bdb6c9",
+    "file": "lua/modules/geocore-economy.lua",
+    "referencePath": "modules/geocore-economy.lua",
+    "sha256": "a2531ab91baa8ceb5616e9610d0065bd8f63919bdf4e6380fe0454eae07e1f78",
+    "bytes": 150285,
+    "boundInParking": false,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+    "file": "lua/modules/geocore-material-lifecycle.lua",
+    "referencePath": "modules/geocore-material-lifecycle.lua",
+    "sha256": "13d06f390eea1aebe79383cd09be357eb507c857efd80705ff4863a76eef76df",
+    "bytes": 1471,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "b0736d43-07df-4c78-9723-a82192114700",
+    "file": "lua/modules/geocore-source-materials.lua",
+    "referencePath": "modules/geocore-source-materials.lua",
+    "sha256": "75490d05b05590d6f6917370dd08df679f11fed3a7ebefc39d991c6d76304b4d",
+    "bytes": 101196,
+    "boundInParking": false,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "86b0e87c-65c5-400c-84f6-ae2a1a33e798",
+    "file": "lua/modules/halloween-avatar-service.lua",
+    "referencePath": "modules/halloween-avatar-service.lua",
+    "sha256": "cab726b7fd8ec8f44611db234ff4253d47e8aeba1e69348ccd643e22f5295030",
+    "bytes": 1770166,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "ab738a0f-14bd-44be-9c34-83557ca44152",
+    "file": "lua/modules/halloween-bgm.lua",
+    "referencePath": "modules/halloween-bgm.lua",
+    "sha256": "dda69ff7995fd437d2b9a68d8713311408b4361f4279ea873ebf5e2474aa45f2",
+    "bytes": 12056,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "fdd5cb4c-4051-4cdc-b7a1-e1326b23f8a1",
+    "file": "lua/modules/halloween-hub-fx.lua",
+    "referencePath": "modules/halloween-hub-fx.lua",
+    "sha256": "0c6101c5fe47c4dcd17b315599906913ffc9bc26c8cfc8bea60078faf2b77dfb",
+    "bytes": 12828,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "ec7ad92f-b919-4a13-b609-66056cfc3ded",
+    "file": "lua/modules/halloween-landmark-lights.lua",
+    "referencePath": "modules/halloween-landmark-lights.lua",
+    "sha256": "016576b9f212ae6a5d64455695f2fceb53dc80b531deaf8cc21f05d4fa83f6a0",
+    "bytes": 24849,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "40c543eb-7939-4fa5-b527-07338752a388",
+    "file": "lua/modules/halloween-npc-interaction_1.lua",
+    "referencePath": "modules/halloween-npc-interaction_1.lua",
+    "sha256": "628819594a19710aa18c3ced49d063b76b8870899969a1c25d8e1a47b8e36c3e",
+    "bytes": 5601,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "e5b19e6b-47f6-4d52-99c4-d85798e7f141",
+    "file": "lua/modules/halloween-npc-interaction_2.lua",
+    "referencePath": "modules/halloween-npc-interaction_2.lua",
+    "sha256": "9937e4c8c78d108836fb9a965b13cce488d278f01b530345559e94153234d40c",
+    "bytes": 5601,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "62fb8c26-308b-4e1b-ad02-af3024ec8f10",
+    "file": "lua/modules/halloween-npc-interaction_3.lua",
+    "referencePath": "modules/halloween-npc-interaction_3.lua",
+    "sha256": "007fc562a520d5435d8f0caa391378f0794d98a0f046c664547a265310a1c44f",
+    "bytes": 5589,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "3f70193e-b4a3-4a3e-9519-00fa16f54fd8",
+    "file": "lua/modules/halloween-npc-interaction_4.lua",
+    "referencePath": "modules/halloween-npc-interaction_4.lua",
+    "sha256": "21ec3865f7481df10f9995587e9d3378508478c26377d310c01f3c2057372a09",
+    "bytes": 5601,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "f29c6267-f364-4c9d-aba5-73c7209f0587",
+    "file": "lua/modules/halloween-npc-interaction.lua",
+    "referencePath": "modules/halloween-npc-interaction.lua",
+    "sha256": "cda2bcc1b48f4236049b27585cd85885526b11e9562cb45002ff949f2c571478",
+    "bytes": 5601,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "c5ceda7b-dc29-4dfb-b2cc-c45eb90ce772",
+    "file": "lua/modules/halloween-shadow-quality.lua",
+    "referencePath": "modules/halloween-shadow-quality.lua",
+    "sha256": "4fe4444967fa7d8712cd49c3722a56099342f0892d6c6c019f46d41540cd2207",
+    "bytes": 2670,
+    "boundInParking": false,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "5e456520-b3ca-4ce4-942c-6ebf3c20e708",
+    "file": "lua/modules/halloween-vehicle-materials.lua",
+    "referencePath": "modules/halloween-vehicle-materials.lua",
+    "sha256": "5e547f4e5f1f2ffe86e546040df37ff52ede39640c6edc9b412e791685319cbf",
+    "bytes": 1244,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "9ce147c6-0d29-4356-be45-ac57634415af",
+    "file": "lua/modules/pi-c01-duskwing-parade.lua",
+    "referencePath": "modules/pi-c01-duskwing-parade.lua",
+    "sha256": "1790d914f2b37a3290feda5ad3c4423dd095a1ad903318ede92a576a7f03fc1d",
+    "bytes": 245266,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "1a1f1fbf-d1d3-4999-81c5-3aa3ed3269b0",
+    "file": "lua/modules/pi-c02-candy-hex.lua",
+    "referencePath": "modules/pi-c02-candy-hex.lua",
+    "sha256": "54413daec65b7c00d3de1e61ed29c2dd68db6276e6cdabcd57e8bc5ac97d513b",
+    "bytes": 245222,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "a617d090-9f38-484d-aae2-38cd1bc67d71",
+    "file": "lua/modules/pi-flame-kart.lua",
+    "referencePath": "modules/pi-flame-kart.lua",
+    "sha256": "806ead347f76da90a15ec6a750ede8ad844b7c38fb1d26133daf3d33875f1156",
+    "bytes": 245175,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "ce1504dd-0a40-4a70-87e3-c8175dc6e9f2",
+    "file": "lua/modules/pi-flame-motorcycle.lua",
+    "referencePath": "modules/pi-flame-motorcycle.lua",
+    "sha256": "486ca34e319c388a28bde21e36e7ce3837ce0b0908a2cd1eef2df9cbc344a31e",
+    "bytes": 255941,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "8de0f771-fd69-4eaf-9b49-0fe93a76cba0",
+    "file": "lua/modules/pi-lp03-toybox.lua",
+    "referencePath": "modules/pi-lp03-toybox.lua",
+    "sha256": "089c6f71b359bba58a4088f13cadeb78b1004fb8d66e88a96a082a571e9c1e52",
+    "bytes": 244662,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "08e30626-c7ac-442b-a52e-79eeb4821174",
+    "file": "lua/modules/pi-lp05b-feiying.lua",
+    "referencePath": "modules/pi-lp05b-feiying.lua",
+    "sha256": "41ad87af079e90e9952c3616a059e2cae503c0f69ea81f078176ea3a161568fc",
+    "bytes": 244654,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "4fd26fee-695e-49b9-9e3a-c4c63e32953d",
+    "file": "lua/modules/pi-lp05b.lua",
+    "referencePath": "modules/pi-lp05b.lua",
+    "sha256": "5285ce735fee4240ff75c8dcfc95212461a8b2180d1e88de7df135289b1b36ae",
+    "bytes": 244644,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "172fb58a-5b48-478e-9c7a-2982f1094fa4",
+    "file": "lua/modules/pi-lp14-mint-candy.lua",
+    "referencePath": "modules/pi-lp14-mint-candy.lua",
+    "sha256": "bca66b93b89d40a35f7ea69c6a7c592229ecf6edbd54a5ead28e13607dae1e4c",
+    "bytes": 244613,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "8bd801fb-77a6-40e3-b3f0-213805638473",
+    "file": "lua/modules/pi-lp14.lua",
+    "referencePath": "modules/pi-lp14.lua",
+    "sha256": "3b1dd1bfcb58d455a746d4bf88523350158f0dbb7a5f5406e195427a9630f3ef",
+    "bytes": 244603,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "8db8ed26-ff1d-45c6-9f00-2ffd3c72a094",
+    "file": "lua/modules/pi-lp26.lua",
+    "referencePath": "modules/pi-lp26.lua",
+    "sha256": "10a6f470917ec724c8389e9ae23f5738a78307c604e39eaaa72115cb51983f1f",
+    "bytes": 244629,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "479379fa-99ea-4279-b543-57336e6305db",
+    "file": "lua/modules/pi-lp37-buskid-sunny.lua",
+    "referencePath": "modules/pi-lp37-buskid-sunny.lua",
+    "sha256": "82a9a525175d887448c3aa522f2b31dfb0261181c79bab16c7332b7b2b1ae6da",
+    "bytes": 246906,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "40b08af1-fa7d-4952-b7e1-1eab05150ca6",
+    "file": "lua/modules/pi-lp37-star-dream.lua",
+    "referencePath": "modules/pi-lp37-star-dream.lua",
+    "sha256": "34281b690f45a9e2e12cbe823d5171de2ca562832fe71b41eab41092811620a4",
+    "bytes": 246924,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "0a670ab9-e842-4180-83ac-1ff209bfa4ec",
+    "file": "lua/modules/pi-lp39-berry-pop.lua",
+    "referencePath": "modules/pi-lp39-berry-pop.lua",
+    "sha256": "89073a14ac124794be483facac61c1733045664e652cb9578f457259be54bf42",
+    "bytes": 244790,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "0b177841-8cba-4955-ba76-6f773828be1c",
+    "file": "lua/modules/pi-lp39-racerpop.lua",
+    "referencePath": "modules/pi-lp39-racerpop.lua",
+    "sha256": "9faed06d199301e9df58dec16774fb9d10b9ebca282d1f7409a64f154e95d496",
+    "bytes": 244800,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "0c552cb3-a257-49e9-9695-3f069a85e602",
+    "file": "lua/modules/pi-nl01-niufen.lua",
+    "referencePath": "modules/pi-nl01-niufen.lua",
+    "sha256": "c09a7e9b5601d9df7e64bacde4c3844fc83e43923c4c49cb6acda56f97bf4f0e",
+    "bytes": 244713,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "d9c87464-c30a-41a9-9985-49d42295c57c",
+    "file": "lua/modules/pi-nl01-niulai.lua",
+    "referencePath": "modules/pi-nl01-niulai.lua",
+    "sha256": "ac908d0aa971f2d557e2fa85408d1495f236632b4f89c81e52bf4de6fe4cdb1c",
+    "bytes": 244713,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "650f9bb2-f983-4c39-9b98-456d89b19dd2",
+    "file": "lua/modules/race-manager.lua",
+    "referencePath": "modules/race-manager.lua",
+    "sha256": "7fe155e163c7913793b8eb41032f775970075825ff983d50b9b1f25af2580f0e",
+    "bytes": 177828,
+    "boundInParking": false,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "4fd23b49-42c5-4e32-9c41-7f364db2a421",
+    "file": "lua/modules/race-route-validator.lua",
+    "referencePath": "modules/race-route-validator.lua",
+    "sha256": "a4f2e8513b545c3d28476cb5b9793a4a99fde6ff1279f1b42ecff104463b16bc",
+    "bytes": 15738,
+    "boundInParking": false,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "3cb5f0e7-b1a4-4aa0-8d32-905a47bd2f26",
+    "file": "lua/modules/race-session-ui.lua",
+    "referencePath": "modules/race-session-ui.lua",
+    "sha256": "d482c1c527def1206ce128f87bf776f920ffeb4cfd04b9fd9b49bd4428465512",
+    "bytes": 774173,
+    "boundInParking": false,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "file": "lua/modules/vehicle-seat-station-relay.lua",
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "sha256": "6d9c56c6ee89e2c9a1bc9a51e52a24b86e828bd306dcab64f9124a22823a6858",
+    "bytes": 2803,
+    "boundInParking": true,
+    "matchesProjectScriptFile": true
+  },
+  {
+    "scriptId": "d6f83b17-d36c-4840-ae2a-b896be27b101",
+    "file": "lua/runtime-builtin/runtime-resource-root-bootstrap.lua",
+    "referencePath": "runtime-builtin/runtime-resource-root-bootstrap.lua",
+    "sha256": "01cc72bdc86fb23b2128a6f7ac18e86dbc52705c3f50ee2833adbd89552d5716",
+    "bytes": 594,
+    "boundInParking": true,
+    "matchesProjectScriptFile": false
+  }
+]

@@ -1,0 +1,1236 @@
+[
+  {
+    "nodeId": 1832923071,
+    "nodeName": "玩具",
+    "rootName": "玩具",
+    "scriptId": "8de0f771-fd69-4eaf-9b49-0fe93a76cba0",
+    "scriptType": 1,
+    "referencePath": "modules/pi-lp03-toybox.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "rearLeftTaken": false,
+      "rearRightTaken": false,
+      "topSpeed": 29,
+      "acceleration": 26,
+      "braking": 36,
+      "turnSpeed": 75,
+      "grip": 0.95,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 8,
+      "sidewaysFriction": 12,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  {
+    "nodeId": 1832923071,
+    "nodeName": "玩具",
+    "rootName": "玩具",
+    "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+    "scriptType": 1,
+    "referencePath": "modules/geocore-material-lifecycle.lua",
+    "params": {}
+  },
+  {
+    "nodeId": 1282215102,
+    "nodeName": "SeatStation_FrontPassenger",
+    "rootName": "玩具",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "front_passenger",
+      "vehicleScriptName": "8de0f771-fd69-4eaf-9b49-0fe93a76cba0"
+    }
+  },
+  {
+    "nodeId": -124228186,
+    "nodeName": "莓爆花",
+    "rootName": "莓爆花",
+    "scriptId": "0a670ab9-e842-4180-83ac-1ff209bfa4ec",
+    "scriptType": 1,
+    "referencePath": "modules/pi-lp39-berry-pop.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "topSpeed": 30.5,
+      "acceleration": 21,
+      "braking": 29,
+      "turnSpeed": 72,
+      "grip": 0.95,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 8,
+      "sidewaysFriction": 12,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  {
+    "nodeId": -124228186,
+    "nodeName": "莓爆花",
+    "rootName": "莓爆花",
+    "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+    "scriptType": 1,
+    "referencePath": "modules/geocore-material-lifecycle.lua",
+    "params": {}
+  },
+  {
+    "nodeId": 1031356013,
+    "nodeName": "SeatStation_FrontPassenger",
+    "rootName": "莓爆花",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "front_passenger",
+      "vehicleScriptName": "0a670ab9-e842-4180-83ac-1ff209bfa4ec"
+    }
+  },
+  {
+    "nodeId": 1065249812,
+    "nodeName": "绯樱",
+    "rootName": "绯樱",
+    "scriptId": "08e30626-c7ac-442b-a52e-79eeb4821174",
+    "scriptType": 1,
+    "referencePath": "modules/pi-lp05b-feiying.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "rearLeftTaken": false,
+      "rearRightTaken": false,
+      "topSpeed": 29.5,
+      "acceleration": 25,
+      "braking": 30,
+      "turnSpeed": 75,
+      "grip": 0.95,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 8,
+      "sidewaysFriction": 12,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  {
+    "nodeId": 1065249812,
+    "nodeName": "绯樱",
+    "rootName": "绯樱",
+    "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+    "scriptType": 1,
+    "referencePath": "modules/geocore-material-lifecycle.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1217276544,
+    "nodeName": "SeatStation_FrontPassenger",
+    "rootName": "绯樱",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "front_passenger",
+      "vehicleScriptName": "08e30626-c7ac-442b-a52e-79eeb4821174"
+    }
+  },
+  {
+    "nodeId": -1349895540,
+    "nodeName": "暴走",
+    "rootName": "暴走",
+    "scriptId": "4fd26fee-695e-49b9-9e3a-c4c63e32953d",
+    "scriptType": 1,
+    "referencePath": "modules/pi-lp05b.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "rearLeftTaken": false,
+      "rearRightTaken": false,
+      "topSpeed": 29.5,
+      "acceleration": 25,
+      "braking": 30,
+      "turnSpeed": 75,
+      "grip": 0.95,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 8,
+      "sidewaysFriction": 12,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  {
+    "nodeId": -1349895540,
+    "nodeName": "暴走",
+    "rootName": "暴走",
+    "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+    "scriptType": 1,
+    "referencePath": "modules/geocore-material-lifecycle.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -2076332594,
+    "nodeName": "SeatStation_FrontPassenger",
+    "rootName": "暴走",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "front_passenger",
+      "vehicleScriptName": "4fd26fee-695e-49b9-9e3a-c4c63e32953d"
+    }
+  },
+  {
+    "nodeId": 1646236904,
+    "nodeName": "薄荷糖",
+    "rootName": "薄荷糖",
+    "scriptId": "172fb58a-5b48-478e-9c7a-2982f1094fa4",
+    "scriptType": 1,
+    "referencePath": "modules/pi-lp14-mint-candy.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "rearLeftTaken": false,
+      "rearRightTaken": false,
+      "topSpeed": 29.5,
+      "acceleration": 22,
+      "braking": 36,
+      "turnSpeed": 75,
+      "grip": 0.95,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 8,
+      "sidewaysFriction": 12,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  {
+    "nodeId": 1646236904,
+    "nodeName": "薄荷糖",
+    "rootName": "薄荷糖",
+    "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+    "scriptType": 1,
+    "referencePath": "modules/geocore-material-lifecycle.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1678675064,
+    "nodeName": "SeatStation_FrontPassenger",
+    "rootName": "薄荷糖",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "front_passenger",
+      "vehicleScriptName": "172fb58a-5b48-478e-9c7a-2982f1094fa4"
+    }
+  },
+  {
+    "nodeId": -1903588733,
+    "nodeName": "甜品",
+    "rootName": "甜品",
+    "scriptId": "8bd801fb-77a6-40e3-b3f0-213805638473",
+    "scriptType": 1,
+    "referencePath": "modules/pi-lp14.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "rearLeftTaken": false,
+      "rearRightTaken": false,
+      "topSpeed": 29.5,
+      "acceleration": 22,
+      "braking": 36,
+      "turnSpeed": 75,
+      "grip": 0.95,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 8,
+      "sidewaysFriction": 12,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  {
+    "nodeId": -1903588733,
+    "nodeName": "甜品",
+    "rootName": "甜品",
+    "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+    "scriptType": 1,
+    "referencePath": "modules/geocore-material-lifecycle.lua",
+    "params": {}
+  },
+  {
+    "nodeId": 1885471208,
+    "nodeName": "SeatStation_FrontPassenger",
+    "rootName": "甜品",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "front_passenger",
+      "vehicleScriptName": "8bd801fb-77a6-40e3-b3f0-213805638473"
+    }
+  },
+  {
+    "nodeId": -498555916,
+    "nodeName": "牛牛",
+    "rootName": "牛牛",
+    "scriptId": "d9c87464-c30a-41a9-9985-49d42295c57c",
+    "scriptType": 1,
+    "referencePath": "modules/pi-nl01-niulai.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "rearLeftTaken": false,
+      "rearRightTaken": false,
+      "topSpeed": 33,
+      "acceleration": 15,
+      "braking": 15,
+      "turnSpeed": 75,
+      "grip": 0.95,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 8,
+      "sidewaysFriction": 12,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  {
+    "nodeId": -498555916,
+    "nodeName": "牛牛",
+    "rootName": "牛牛",
+    "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+    "scriptType": 1,
+    "referencePath": "modules/geocore-material-lifecycle.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1403185552,
+    "nodeName": "SeatStation_FrontPassenger",
+    "rootName": "牛牛",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "front_passenger",
+      "vehicleScriptName": "d9c87464-c30a-41a9-9985-49d42295c57c"
+    }
+  },
+  {
+    "nodeId": 1419667514,
+    "nodeName": "牛粉",
+    "rootName": "牛粉",
+    "scriptId": "0c552cb3-a257-49e9-9695-3f069a85e602",
+    "scriptType": 1,
+    "referencePath": "modules/pi-nl01-niufen.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "rearLeftTaken": false,
+      "rearRightTaken": false,
+      "topSpeed": 33,
+      "acceleration": 15,
+      "braking": 15,
+      "turnSpeed": 75,
+      "grip": 0.95,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 8,
+      "sidewaysFriction": 12,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  {
+    "nodeId": 1419667514,
+    "nodeName": "牛粉",
+    "rootName": "牛粉",
+    "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+    "scriptType": 1,
+    "referencePath": "modules/geocore-material-lifecycle.lua",
+    "params": {}
+  },
+  {
+    "nodeId": 1011462887,
+    "nodeName": "SeatStation_FrontPassenger",
+    "rootName": "牛粉",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "front_passenger",
+      "vehicleScriptName": "0c552cb3-a257-49e9-9695-3f069a85e602"
+    }
+  },
+  {
+    "nodeId": -1911095155,
+    "nodeName": "烈焰",
+    "rootName": "烈焰",
+    "scriptId": "a617d090-9f38-484d-aae2-38cd1bc67d71",
+    "scriptType": 1,
+    "referencePath": "modules/pi-flame-kart.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "rearLeftTaken": false,
+      "rearRightTaken": false,
+      "topSpeed": 30,
+      "acceleration": 20,
+      "braking": 34,
+      "turnSpeed": 82,
+      "grip": 0.97,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 6,
+      "sidewaysFriction": 14,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  {
+    "nodeId": -1911095155,
+    "nodeName": "烈焰",
+    "rootName": "烈焰",
+    "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+    "scriptType": 1,
+    "referencePath": "modules/geocore-material-lifecycle.lua",
+    "params": {}
+  },
+  {
+    "nodeId": 250706113,
+    "nodeName": "SeatStation_FrontPassenger",
+    "rootName": "烈焰",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "front_passenger",
+      "vehicleScriptName": "a617d090-9f38-484d-aae2-38cd1bc67d71"
+    }
+  },
+  {
+    "nodeId": 433861336,
+    "nodeName": "赤巡",
+    "rootName": "赤巡",
+    "scriptId": "ce1504dd-0a40-4a70-87e3-c8175dc6e9f2",
+    "scriptType": 1,
+    "referencePath": "modules/pi-flame-motorcycle.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "rearLeftTaken": false,
+      "rearRightTaken": false,
+      "topSpeed": 32,
+      "acceleration": 23,
+      "braking": 28,
+      "turnSpeed": 66,
+      "grip": 0.91,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 4,
+      "coastingDrag": 4,
+      "sidewaysFriction": 10,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  {
+    "nodeId": 433861336,
+    "nodeName": "赤巡",
+    "rootName": "赤巡",
+    "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+    "scriptType": 1,
+    "referencePath": "modules/geocore-material-lifecycle.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1219332678,
+    "nodeName": "SeatStation_FrontPassenger",
+    "rootName": "赤巡",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "front_passenger",
+      "vehicleScriptName": "ce1504dd-0a40-4a70-87e3-c8175dc6e9f2"
+    }
+  },
+  {
+    "nodeId": 2012705637,
+    "nodeName": "积木",
+    "rootName": "积木",
+    "scriptId": "8db8ed26-ff1d-45c6-9f00-2ffd3c72a094",
+    "scriptType": 1,
+    "referencePath": "modules/pi-lp26.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "rearLeftTaken": false,
+      "rearRightTaken": false,
+      "topSpeed": 31.5,
+      "acceleration": 15.5,
+      "braking": 19,
+      "turnSpeed": 75,
+      "grip": 0.95,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 8,
+      "sidewaysFriction": 12,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  {
+    "nodeId": 2012705637,
+    "nodeName": "积木",
+    "rootName": "积木",
+    "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+    "scriptType": 1,
+    "referencePath": "modules/geocore-material-lifecycle.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1848948708,
+    "nodeName": "SeatStation_FrontPassenger",
+    "rootName": "积木",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "front_passenger",
+      "vehicleScriptName": "8db8ed26-ff1d-45c6-9f00-2ffd3c72a094"
+    }
+  },
+  {
+    "nodeId": -1306302857,
+    "nodeName": "宝宝巴",
+    "rootName": "宝宝巴",
+    "scriptId": "479379fa-99ea-4279-b543-57336e6305db",
+    "scriptType": 1,
+    "referencePath": "modules/pi-lp37-buskid-sunny.lua",
+    "params": {
+      "driverTaken": false,
+      "r1RightTaken": false,
+      "r2LeftTaken": false,
+      "r2RightTaken": false,
+      "r3LeftTaken": false,
+      "r3RightTaken": false,
+      "driverOccupantActorId": 0,
+      "r1RightOccupantActorId": 0,
+      "r2LeftOccupantActorId": 0,
+      "r2RightOccupantActorId": 0,
+      "r3LeftOccupantActorId": 0,
+      "r3RightOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "topSpeed": 18,
+      "acceleration": 12.5,
+      "braking": 30,
+      "turnSpeed": 56,
+      "grip": 0.97,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 5,
+      "coastingDrag": 9.5,
+      "sidewaysFriction": 14,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  {
+    "nodeId": -1306302857,
+    "nodeName": "宝宝巴",
+    "rootName": "宝宝巴",
+    "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+    "scriptType": 1,
+    "referencePath": "modules/geocore-material-lifecycle.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -589770140,
+    "nodeName": "SeatStation_R1R",
+    "rootName": "宝宝巴",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "r1_right",
+      "vehicleScriptName": "479379fa-99ea-4279-b543-57336e6305db"
+    }
+  },
+  {
+    "nodeId": -1121855846,
+    "nodeName": "SeatStation_R2L",
+    "rootName": "宝宝巴",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "r2_left",
+      "vehicleScriptName": "479379fa-99ea-4279-b543-57336e6305db"
+    }
+  },
+  {
+    "nodeId": 531924260,
+    "nodeName": "SeatStation_R2R",
+    "rootName": "宝宝巴",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "r2_right",
+      "vehicleScriptName": "479379fa-99ea-4279-b543-57336e6305db"
+    }
+  },
+  {
+    "nodeId": 1470559743,
+    "nodeName": "SeatStation_R3L",
+    "rootName": "宝宝巴",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "r3_left",
+      "vehicleScriptName": "479379fa-99ea-4279-b543-57336e6305db"
+    }
+  },
+  {
+    "nodeId": 61930239,
+    "nodeName": "SeatStation_R3R",
+    "rootName": "宝宝巴",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "r3_right",
+      "vehicleScriptName": "479379fa-99ea-4279-b543-57336e6305db"
+    }
+  },
+  {
+    "nodeId": -1024730032,
+    "nodeName": "星梦巴",
+    "rootName": "星梦巴",
+    "scriptId": "40b08af1-fa7d-4952-b7e1-1eab05150ca6",
+    "scriptType": 1,
+    "referencePath": "modules/pi-lp37-star-dream.lua",
+    "params": {
+      "driverTaken": false,
+      "r1RightTaken": false,
+      "r2LeftTaken": false,
+      "r2RightTaken": false,
+      "r3LeftTaken": false,
+      "r3RightTaken": false,
+      "driverOccupantActorId": 0,
+      "r1RightOccupantActorId": 0,
+      "r2LeftOccupantActorId": 0,
+      "r2RightOccupantActorId": 0,
+      "r3LeftOccupantActorId": 0,
+      "r3RightOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "topSpeed": 18,
+      "acceleration": 12.5,
+      "braking": 30,
+      "turnSpeed": 56,
+      "grip": 0.97,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 5,
+      "coastingDrag": 9.5,
+      "sidewaysFriction": 14,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  {
+    "nodeId": -1024730032,
+    "nodeName": "星梦巴",
+    "rootName": "星梦巴",
+    "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+    "scriptType": 1,
+    "referencePath": "modules/geocore-material-lifecycle.lua",
+    "params": {}
+  },
+  {
+    "nodeId": 938537580,
+    "nodeName": "SeatStation_R1R",
+    "rootName": "星梦巴",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "r1_right",
+      "vehicleScriptName": "40b08af1-fa7d-4952-b7e1-1eab05150ca6"
+    }
+  },
+  {
+    "nodeId": 1762483191,
+    "nodeName": "SeatStation_R2L",
+    "rootName": "星梦巴",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "r2_left",
+      "vehicleScriptName": "40b08af1-fa7d-4952-b7e1-1eab05150ca6"
+    }
+  },
+  {
+    "nodeId": 219859804,
+    "nodeName": "SeatStation_R2R",
+    "rootName": "星梦巴",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "r2_right",
+      "vehicleScriptName": "40b08af1-fa7d-4952-b7e1-1eab05150ca6"
+    }
+  },
+  {
+    "nodeId": -1441931978,
+    "nodeName": "SeatStation_R3L",
+    "rootName": "星梦巴",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "r3_left",
+      "vehicleScriptName": "40b08af1-fa7d-4952-b7e1-1eab05150ca6"
+    }
+  },
+  {
+    "nodeId": 1991924523,
+    "nodeName": "SeatStation_R3R",
+    "rootName": "星梦巴",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "r3_right",
+      "vehicleScriptName": "40b08af1-fa7d-4952-b7e1-1eab05150ca6"
+    }
+  },
+  {
+    "nodeId": 1621264168,
+    "nodeName": "爆米花",
+    "rootName": "爆米花",
+    "scriptId": "0b177841-8cba-4955-ba76-6f773828be1c",
+    "scriptType": 1,
+    "referencePath": "modules/pi-lp39-racerpop.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "topSpeed": 30.5,
+      "acceleration": 21,
+      "braking": 29,
+      "turnSpeed": 72,
+      "grip": 0.95,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 8,
+      "sidewaysFriction": 12,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  {
+    "nodeId": 1621264168,
+    "nodeName": "爆米花",
+    "rootName": "爆米花",
+    "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+    "scriptType": 1,
+    "referencePath": "modules/geocore-material-lifecycle.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -133954374,
+    "nodeName": "SeatStation_FrontPassenger",
+    "rootName": "爆米花",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "front_passenger",
+      "vehicleScriptName": "0b177841-8cba-4955-ba76-6f773828be1c"
+    }
+  },
+  {
+    "nodeId": 38286019,
+    "nodeName": "幽月巡航母港",
+    "rootName": "幽月巡航母港",
+    "scriptId": "d6f83b17-d36c-4840-ae2a-b896be27b101",
+    "scriptType": 1,
+    "referencePath": "runtime-builtin/runtime-resource-root-bootstrap.lua",
+    "params": {}
+  },
+  {
+    "nodeId": 1423346462,
+    "nodeName": "母港万圣节装饰",
+    "rootName": "母港万圣节装饰",
+    "scriptId": "d6f83b17-d36c-4840-ae2a-b896be27b101",
+    "scriptType": 1,
+    "referencePath": "runtime-builtin/runtime-resource-root-bootstrap.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1379191159,
+    "nodeName": "HalloweenAvatarService",
+    "rootName": "HalloweenAvatarService",
+    "scriptId": "d6f83b17-d36c-4840-ae2a-b896be27b101",
+    "scriptType": 1,
+    "referencePath": "runtime-builtin/runtime-resource-root-bootstrap.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1379191159,
+    "nodeName": "HalloweenAvatarService",
+    "rootName": "HalloweenAvatarService",
+    "scriptId": "86b0e87c-65c5-400c-84f6-ae2a1a33e798",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-avatar-service.lua",
+    "params": {
+      "halloweenAvatarSnapshot": ""
+    }
+  },
+  {
+    "nodeId": -1379191159,
+    "nodeName": "HalloweenAvatarService",
+    "rootName": "HalloweenAvatarService",
+    "scriptId": "fdd5cb4c-4051-4cdc-b7a1-e1326b23f8a1",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-hub-fx.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1379191159,
+    "nodeName": "HalloweenAvatarService",
+    "rootName": "HalloweenAvatarService",
+    "scriptId": "5e456520-b3ca-4ce4-942c-6ebf3c20e708",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-vehicle-materials.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1379191159,
+    "nodeName": "HalloweenAvatarService",
+    "rootName": "HalloweenAvatarService",
+    "scriptId": "ec7ad92f-b919-4a13-b609-66056cfc3ded",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-landmark-lights.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1379191159,
+    "nodeName": "HalloweenAvatarService",
+    "rootName": "HalloweenAvatarService",
+    "scriptId": "05f8d212-62e4-4b83-a8f6-2796243a2b45",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-bgm-data-04.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1379191159,
+    "nodeName": "HalloweenAvatarService",
+    "rootName": "HalloweenAvatarService",
+    "scriptId": "44091d47-2e55-4d5d-9a5e-0b0cbeef50b9",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-bgm-data-05.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1379191159,
+    "nodeName": "HalloweenAvatarService",
+    "rootName": "HalloweenAvatarService",
+    "scriptId": "798c1112-69a8-474f-8c87-722dd4309666",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-bgm-data-07.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1379191159,
+    "nodeName": "HalloweenAvatarService",
+    "rootName": "HalloweenAvatarService",
+    "scriptId": "dc10f17c-90e9-4e18-9a45-e4d8f25f4a00",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-bgm-data-06.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1379191159,
+    "nodeName": "HalloweenAvatarService",
+    "rootName": "HalloweenAvatarService",
+    "scriptId": "7921c415-c884-4346-b3e6-40ef915f95f4",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-bgm-data-02.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1379191159,
+    "nodeName": "HalloweenAvatarService",
+    "rootName": "HalloweenAvatarService",
+    "scriptId": "f8998a92-5b57-4542-a135-c5994dd7bdd8",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-bgm-data-03.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1379191159,
+    "nodeName": "HalloweenAvatarService",
+    "rootName": "HalloweenAvatarService",
+    "scriptId": "6508743e-cde2-4525-8000-1268d8edf32d",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-bgm-data-01.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1379191159,
+    "nodeName": "HalloweenAvatarService",
+    "rootName": "HalloweenAvatarService",
+    "scriptId": "ab738a0f-14bd-44be-9c34-83557ca44152",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-bgm.lua",
+    "params": {
+      "bgmEnabled": true,
+      "bgmVolume": 0.45,
+      "fadeSeconds": 0.3,
+      "sharedStartEpoch": 1700000000,
+      "syncProgress": false,
+      "driftThreshold": 1.5
+    }
+  },
+  {
+    "nodeId": -1379191159,
+    "nodeName": "HalloweenAvatarService",
+    "rootName": "HalloweenAvatarService",
+    "scriptId": "b11be6d4-22ac-49f2-9393-db11bfbd6d92",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-bgm-data-08.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -2070000000,
+    "nodeName": "HalloweenLandmark_01",
+    "rootName": "HalloweenLandmark_01",
+    "scriptId": "d6f83b17-d36c-4840-ae2a-b896be27b101",
+    "scriptType": 1,
+    "referencePath": "runtime-builtin/runtime-resource-root-bootstrap.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -2069999943,
+    "nodeName": "HalloweenLandmark_02",
+    "rootName": "HalloweenLandmark_02",
+    "scriptId": "d6f83b17-d36c-4840-ae2a-b896be27b101",
+    "scriptType": 1,
+    "referencePath": "runtime-builtin/runtime-resource-root-bootstrap.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -2069999909,
+    "nodeName": "HalloweenLandmark_03",
+    "rootName": "HalloweenLandmark_03",
+    "scriptId": "d6f83b17-d36c-4840-ae2a-b896be27b101",
+    "scriptType": 1,
+    "referencePath": "runtime-builtin/runtime-resource-root-bootstrap.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1551948704,
+    "nodeName": "暮翼巡游",
+    "rootName": "暮翼巡游",
+    "scriptId": "d6f83b17-d36c-4840-ae2a-b896be27b101",
+    "scriptType": 1,
+    "referencePath": "runtime-builtin/runtime-resource-root-bootstrap.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1551948704,
+    "nodeName": "暮翼巡游",
+    "rootName": "暮翼巡游",
+    "scriptId": "9ce147c6-0d29-4356-be45-ac57634415af",
+    "scriptType": 1,
+    "referencePath": "modules/pi-c01-duskwing-parade.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "rearLeftTaken": false,
+      "rearRightTaken": false,
+      "topSpeed": 30,
+      "acceleration": 20,
+      "braking": 30,
+      "turnSpeed": 75,
+      "grip": 0.95,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 8,
+      "sidewaysFriction": 12,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  {
+    "nodeId": -1551948704,
+    "nodeName": "暮翼巡游",
+    "rootName": "暮翼巡游",
+    "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+    "scriptType": 1,
+    "referencePath": "modules/geocore-material-lifecycle.lua",
+    "params": {}
+  },
+  {
+    "nodeId": 1586024501,
+    "nodeName": "SeatStation_FrontPassenger",
+    "rootName": "暮翼巡游",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "front_passenger",
+      "vehicleScriptName": "pi-c01-duskwing-parade.lua"
+    }
+  },
+  {
+    "nodeId": -1523312224,
+    "nodeName": "甜咒南瓜",
+    "rootName": "甜咒南瓜",
+    "scriptId": "d6f83b17-d36c-4840-ae2a-b896be27b101",
+    "scriptType": 1,
+    "referencePath": "runtime-builtin/runtime-resource-root-bootstrap.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1523312224,
+    "nodeName": "甜咒南瓜",
+    "rootName": "甜咒南瓜",
+    "scriptId": "1a1f1fbf-d1d3-4999-81c5-3aa3ed3269b0",
+    "scriptType": 1,
+    "referencePath": "modules/pi-c02-candy-hex.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "rearLeftTaken": false,
+      "rearRightTaken": false,
+      "topSpeed": 30,
+      "acceleration": 20,
+      "braking": 30,
+      "turnSpeed": 75,
+      "grip": 0.95,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 8,
+      "sidewaysFriction": 12,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  {
+    "nodeId": -1523312224,
+    "nodeName": "甜咒南瓜",
+    "rootName": "甜咒南瓜",
+    "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+    "scriptType": 1,
+    "referencePath": "modules/geocore-material-lifecycle.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -1596429152,
+    "nodeName": "SeatStation_FrontPassenger",
+    "rootName": "甜咒南瓜",
+    "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+    "scriptType": 1,
+    "referencePath": "modules/vehicle-seat-station-relay.lua",
+    "params": {
+      "seatId": "front_passenger",
+      "vehicleScriptName": "pi-c02-candy-hex.lua"
+    }
+  },
+  {
+    "nodeId": -210500113,
+    "nodeName": "万圣NPC_南瓜小侯爵",
+    "rootName": "万圣NPC_南瓜小侯爵",
+    "scriptId": "d6f83b17-d36c-4840-ae2a-b896be27b101",
+    "scriptType": 1,
+    "referencePath": "runtime-builtin/runtime-resource-root-bootstrap.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -210500113,
+    "nodeName": "万圣NPC_南瓜小侯爵",
+    "rootName": "万圣NPC_南瓜小侯爵",
+    "scriptId": "f29c6267-f364-4c9d-aba5-73c7209f0587",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-npc-interaction.lua",
+    "params": {
+      "npcPresetId": 1
+    }
+  },
+  {
+    "nodeId": 1846978164,
+    "nodeName": "万圣NPC_薄荷小幽灵",
+    "rootName": "万圣NPC_薄荷小幽灵",
+    "scriptId": "d6f83b17-d36c-4840-ae2a-b896be27b101",
+    "scriptType": 1,
+    "referencePath": "runtime-builtin/runtime-resource-root-bootstrap.lua",
+    "params": {}
+  },
+  {
+    "nodeId": 1846978164,
+    "nodeName": "万圣NPC_薄荷小幽灵",
+    "rootName": "万圣NPC_薄荷小幽灵",
+    "scriptId": "40c543eb-7939-4fa5-b527-07338752a388",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-npc-interaction_1.lua",
+    "params": {
+      "npcPresetId": 2
+    }
+  },
+  {
+    "nodeId": 2004078114,
+    "nodeName": "万圣NPC_月帽小女巫",
+    "rootName": "万圣NPC_月帽小女巫",
+    "scriptId": "d6f83b17-d36c-4840-ae2a-b896be27b101",
+    "scriptType": 1,
+    "referencePath": "runtime-builtin/runtime-resource-root-bootstrap.lua",
+    "params": {}
+  },
+  {
+    "nodeId": 2004078114,
+    "nodeName": "万圣NPC_月帽小女巫",
+    "rootName": "万圣NPC_月帽小女巫",
+    "scriptId": "e5b19e6b-47f6-4d52-99c4-d85798e7f141",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-npc-interaction_2.lua",
+    "params": {
+      "npcPresetId": 3
+    }
+  },
+  {
+    "nodeId": -2039027527,
+    "nodeName": "万圣NPC_蝙蝠邮差",
+    "rootName": "万圣NPC_蝙蝠邮差",
+    "scriptId": "d6f83b17-d36c-4840-ae2a-b896be27b101",
+    "scriptType": 1,
+    "referencePath": "runtime-builtin/runtime-resource-root-bootstrap.lua",
+    "params": {}
+  },
+  {
+    "nodeId": -2039027527,
+    "nodeName": "万圣NPC_蝙蝠邮差",
+    "rootName": "万圣NPC_蝙蝠邮差",
+    "scriptId": "62fb8c26-308b-4e1b-ad02-af3024ec8f10",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-npc-interaction_3.lua",
+    "params": {
+      "npcPresetId": 4
+    }
+  },
+  {
+    "nodeId": 822990678,
+    "nodeName": "万圣NPC_糖纸木乃伊",
+    "rootName": "万圣NPC_糖纸木乃伊",
+    "scriptId": "d6f83b17-d36c-4840-ae2a-b896be27b101",
+    "scriptType": 1,
+    "referencePath": "runtime-builtin/runtime-resource-root-bootstrap.lua",
+    "params": {}
+  },
+  {
+    "nodeId": 822990678,
+    "nodeName": "万圣NPC_糖纸木乃伊",
+    "rootName": "万圣NPC_糖纸木乃伊",
+    "scriptId": "3f70193e-b4a3-4a3e-9519-00fa16f54fd8",
+    "scriptType": 1,
+    "referencePath": "modules/halloween-npc-interaction_4.lua",
+    "params": {
+      "npcPresetId": 5
+    }
+  }
+]

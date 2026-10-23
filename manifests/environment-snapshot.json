@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "selected": {
+    "scope": "official",
+    "templateId": "env_star"
+  },
+  "overrides": {
+    "official": {
+      "env_star": {
+        "params": {
+          "skyboxTextureUri": {
+            "type": "cubeimage",
+            "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/Geocore_VioletMoon_Citadel_20261021_V2__upload_hywsbmcs.tga"
+          },
+          "skyboxRotationX": 0,
+          "skyboxRotationY": 180,
+          "skyboxRotationZ": 0,
+          "flareEnable": false,
+          "mainLightColor": "#67111c",
+          "mainLightStrength": 2.41,
+          "mainLightPitch": 60.6737,
+          "mainLightYaw": 55.5689,
+          "shadowStrength": 1,
+          "characterAmbientEnable": true,
+          "characterAmbient": "#B9A7A3",
+          "enableCharacterLight": true,
+          "characterLightColor": "#FFE3C6",
+          "characterStrenght": 2.4,
+          "characterPitch": 0.31,
+          "characterYaw": 0.78,
+          "characterCubemapEnable": true,
+          "reflectionTextureUri": {
+            "type": "cubeimage",
+            "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/Geocore_VioletMoon_Citadel_20261021_V2__upload_hywsbmcs.tga"
+          },
+          "fogEnable": true,
+          "fogColor": "#ef465a",
+          "startFog": 500,
+          "endFog": 900,
+          "enablePostProcess": true,
+          "bloomEnabled": true,
+          "bloomColor": "#FFFFFF",
+          "bloomThreshold": 1,
+          "bloomIntensity": 0.5,
+          "bloomScatter": 0.5,
+          "vignette": true,
+          "vignetteColor": "#000000",
+          "vignetteAmount": 0.054,
+          "vignetteSoftness": 0.371,
+          "weatherEffectEnable": false,
+          "weatherParticleType": 1,
+          "weatherParticleColor": "#FFFFFF",
+          "weatherIntensity": 1,
+          "weatherFallSpeed": 1,
+          "weatherTiltAngle": 0,
+          "weatherParticleSize": 1,
+          "weatherRippleEnable": false,
+          "weatherRippleIntensity": 0.5,
+          "weatherRippleSpeed": 1,
+          "weatherRippleScale": 1,
+          "flarePitch": 59.400001525878906,
+          "flareYaw": 273.8642883300781
+        },
+        "updatedAt": 1792744773494
+      }
+    },
+    "user": {}
+  }
+}

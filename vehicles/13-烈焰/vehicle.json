@@ -1,0 +1,140 @@
+{
+  "name": "烈焰",
+  "rootId": -1911095155,
+  "rootTransform": {
+    "pos": {
+      "x": 165.087784,
+      "y": 52.26828,
+      "z": -11.8243618
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.9,
+      "y": 0.9,
+      "z": 0.9
+    }
+  },
+  "driverScript": {
+    "nodeId": -1911095155,
+    "nodeName": "烈焰",
+    "rootName": "烈焰",
+    "scriptId": "a617d090-9f38-484d-aae2-38cd1bc67d71",
+    "scriptType": 1,
+    "referencePath": "modules/pi-flame-kart.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "rearLeftTaken": false,
+      "rearRightTaken": false,
+      "topSpeed": 30,
+      "acceleration": 20,
+      "braking": 34,
+      "turnSpeed": 82,
+      "grip": 0.97,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 6,
+      "sidewaysFriction": 14,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  "seatCount": 2,
+  "seatConfigLua": "local seatConfigs = {\n  { id = \"driver\", label = \"驾驶\", anchorPath = \"SeatAnchor_Driver\", canDrive = true, fallbackPosition = Vector3(-0.24, 0.268, -0.19) },\n  { id = \"front_passenger\", label = \"乘坐·副驾\", anchorPath = \"SeatAnchor_FrontPassenger\", stationPath = \"SeatStation_FrontPassenger\", canDrive = false, fallbackPosition = Vector3(0.24, 0.268, -0.19) },\n}",
+  "wheelConfigLua": "local wheelConfigs = {\n  { name = \"FLAME_KART_Wheel_FL\", radius = 0.4, pivot = Vector3(-0.54, 0.2, 0.53), visualScale = Vector3(1, 1, 1), parts = { \"FLAME_KART_Wheel_FL_Part_01\" } },\n  { name = \"FLAME_KART_Wheel_FR\", radius = 0.4, pivot = Vector3(0.54, 0.2, 0.53), visualScale = Vector3(1, 1, 1), parts = { \"FLAME_KART_Wheel_FR_Part_01\" } },\n  { name = \"FLAME_KART_Wheel_RL\", radius = 0.44, pivot = Vector3(-0.565, 0.22, -0.54), visualScale = Vector3(1, 1, 1), parts = { \"FLAME_KART_Wheel_RL_Part_01\" } },\n  { name = \"FLAME_KART_Wheel_RR\", radius = 0.44, pivot = Vector3(0.565, 0.22, -0.54), visualScale = Vector3(1, 1, 1), parts = { \"FLAME_KART_Wheel_RR_Part_01\" } },\n}",
+  "materialIdentity": {
+    "name": "烈焰",
+    "parts": [
+      {
+        "name": "烈焰",
+        "subMeshes": 17,
+        "mats": [
+          139,
+          140,
+          141,
+          142,
+          139,
+          143,
+          144,
+          145,
+          140,
+          144,
+          146,
+          144,
+          146,
+          147,
+          146,
+          144,
+          144
+        ],
+        "vertices": 16967
+      },
+      {
+        "name": "FLAME_KART_Wheel_FL_Part_01",
+        "subMeshes": 5,
+        "mats": [
+          139,
+          140,
+          146,
+          145,
+          144
+        ],
+        "vertices": 8848
+      },
+      {
+        "name": "FLAME_KART_Wheel_FR_Part_01",
+        "subMeshes": 5,
+        "mats": [
+          139,
+          140,
+          146,
+          145,
+          144
+        ],
+        "vertices": 8848
+      },
+      {
+        "name": "FLAME_KART_Wheel_RL_Part_01",
+        "subMeshes": 5,
+        "mats": [
+          139,
+          140,
+          146,
+          145,
+          144
+        ],
+        "vertices": 8854
+      },
+      {
+        "name": "FLAME_KART_Wheel_RR_Part_01",
+        "subMeshes": 5,
+        "mats": [
+          139,
+          140,
+          146,
+          145,
+          144
+        ],
+        "vertices": 8854
+      }
+    ]
+  },
+  "assetFiles": [
+    "models/catalog/A031-FLAME_KART_Body_Part_01_0907_2f6c6256.glb",
+    "models/catalog/A032-FLAME_KART_Wheel_FL_Part_01_0907_515c23fe.glb",
+    "models/catalog/A033-FLAME_KART_Wheel_FR_Part_01_0907_b156626b.glb",
+    "models/catalog/A034-FLAME_KART_Wheel_RL_Part_01_0907_ffe06f13.glb",
+    "models/catalog/A035-FLAME_KART_Wheel_RR_Part_01_0907_715df9d8.glb"
+  ]
+}

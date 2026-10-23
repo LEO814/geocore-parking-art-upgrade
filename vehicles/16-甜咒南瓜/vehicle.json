@@ -1,0 +1,127 @@
+{
+  "name": "甜咒南瓜",
+  "rootId": -1523312224,
+  "rootTransform": {
+    "pos": {
+      "x": 144.087784,
+      "y": 52.26828,
+      "z": 3.175646
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "scale": {
+      "x": 1.68,
+      "y": 1.68,
+      "z": 1.68
+    }
+  },
+  "driverScript": {
+    "nodeId": -1523312224,
+    "nodeName": "甜咒南瓜",
+    "rootName": "甜咒南瓜",
+    "scriptId": "1a1f1fbf-d1d3-4999-81c5-3aa3ed3269b0",
+    "scriptType": 1,
+    "referencePath": "modules/pi-c02-candy-hex.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "rearLeftTaken": false,
+      "rearRightTaken": false,
+      "topSpeed": 30,
+      "acceleration": 20,
+      "braking": 30,
+      "turnSpeed": 75,
+      "grip": 0.95,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 8,
+      "sidewaysFriction": 12,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  "seatCount": 2,
+  "seatConfigLua": "local seatConfigs = {\n  { id = \"driver\", label = \"驾驶·前座\", anchorPath = \"Seat_Driver\", canDrive = true, fallbackPosition = Vector3(0, 0.161112035826, 0.102861940596) },\n  { id = \"front_passenger\", label = \"乘坐·后座\", anchorPath = \"Seat_Passenger\", stationPath = \"SeatStation_FrontPassenger\", canDrive = false, fallbackPosition = Vector3(0, 0.168169479763, -0.299538255509) },\n}",
+  "wheelConfigLua": "local wheelConfigs = {\n  { name = \"C02_WheelPivot_FL\", radius = 0.177, pivot = Vector3(0.233928571429, 0.105357142857, 0.269642857143), visualScale = Vector3.one, parts = { \"Wheel_FL\" } },\n  { name = \"C02_WheelPivot_FR\", radius = 0.177, pivot = Vector3(-0.233928571429, 0.105357142857, 0.269642857143), visualScale = Vector3.one, parts = { \"Wheel_FR\" } },\n  { name = \"C02_WheelPivot_RL\", radius = 0.189, pivot = Vector3(0.230357142857, 0.1125, -0.269642857143), visualScale = Vector3.one, parts = { \"Wheel_RL\" } },\n  { name = \"C02_WheelPivot_RR\", radius = 0.189, pivot = Vector3(-0.230357142857, 0.1125, -0.269642857143), visualScale = Vector3.one, parts = { \"Wheel_RR\" } },\n}",
+  "materialIdentity": {
+    "name": "甜咒南瓜",
+    "hideCarrier": true,
+    "parts": [
+      {
+        "subMeshes": 9,
+        "strictVertices": false,
+        "name": "Body",
+        "mats": [
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          168
+        ],
+        "vertices": 14823
+      },
+      {
+        "subMeshes": 3,
+        "strictVertices": false,
+        "name": "Wheel_FL",
+        "mats": [
+          159,
+          161,
+          163
+        ],
+        "vertices": 2289
+      },
+      {
+        "subMeshes": 3,
+        "strictVertices": false,
+        "name": "Wheel_FR",
+        "mats": [
+          159,
+          161,
+          163
+        ],
+        "vertices": 2289
+      },
+      {
+        "subMeshes": 3,
+        "strictVertices": false,
+        "name": "Wheel_RL",
+        "mats": [
+          159,
+          161,
+          163
+        ],
+        "vertices": 2289
+      },
+      {
+        "subMeshes": 3,
+        "strictVertices": false,
+        "name": "Wheel_RR",
+        "mats": [
+          159,
+          161,
+          163
+        ],
+        "vertices": 2289
+      }
+    ]
+  },
+  "assetFiles": [
+    "models/catalog/A063-C02-tandem-runtime.glb",
+    "models/catalog/A064-C02_FullPumpkinBody_Final.glb"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "capturedAt": "2026-10-23T09:58:08.844511+00:00",
+  "sourceProject": "project_00wvk0ld",
+  "sceneSha256": "a03c30e6c503634ae44932179987f24cb78b2e1726ea40821b579ab8c538fe6d",
+  "parkingRoots": 32,
+  "parkingNodes": 731,
+  "assetGlbs": 74,
+  "assetGlbBytes": 38248112,
+  "fleet": 16,
+  "vehicleParts": 78,
+  "materialSlots": 2011,
+  "paletteEntries": 169,
+  "scripts": 36,
+  "missingAssets": [],
+  "scope": "Saved scene parking roots plus their descendants and parking perimeter; Lua-generated stage/decor documented separately."
+}

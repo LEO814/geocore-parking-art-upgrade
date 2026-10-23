@@ -1,0 +1,8555 @@
+{
+  "palette": [
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {}
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.9333332777023315,
+            0.9137254357337952,
+            0.8627450466156006,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.6200000047683716,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.09019599109888077,
+            0.3372547924518585,
+            0.7176470160484314,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.699999988079071,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.8941175937652588,
+            0.1960783302783966,
+            0.16862738132476807,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.75,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 3000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI_AlphaBlend",
+      "keywords": [
+        "_USEVERTEXCOLOR1_ON"
+      ],
+      "props": {}
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            1,
+            0.7882352471351624,
+            0.15686264634132385,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.800000011920929,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 3000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI_AlphaBlend",
+      "keywords": [
+        "_USEVERTEXCOLOR1_ON"
+      ],
+      "props": {
+        "_Transparent": {
+          "value": 0.8199999928474426,
+          "type": 3
+        },
+        "_Smoothness": {
+          "value": 0.8400000333786011,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.4705880880355835,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.8199999928474426,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.811764657497406,
+            0.8392155766487122,
+            0.8627450466156006,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.8199999928474426,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.09019599109888077,
+            0.09803912788629532,
+            0.10980384796857834,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.17000001668930054,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.1490195095539093,
+            0.16078424453735352,
+            0.17647048830986023,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.12000000476837158,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7699999809265137,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.850980281829834,
+            0.28235283493995667,
+            0.5215684771537781,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.18000000715255737,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.800000011920929,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9372548460960388,
+            0.4980390667915344,
+            0.6784313321113586,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.18000000715255737,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.8199999928474426,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.5019607543945312,
+            0.392156720161438,
+            0.7882352471351624,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.36000001430511475,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.550000011920929,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.08627445250749588,
+            0.07450974732637405,
+            0.10588227957487106,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.029999999329447746,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.8400000333786011,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.3843136131763458,
+            0.8666665554046631,
+            0.8784313201904297,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.699999988079071,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.8199999928474426,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.882352888584137,
+            0.5803921222686768,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.41999998688697815,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.3799999952316284,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.06274503469467163,
+            0.0666666030883789,
+            0.07058816403150558,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.05000000074505806,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7200000286102295,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9607842564582825,
+            0.741176426410675,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.20000000298023224,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.8799999952316284,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.850980281829834,
+            0.8666665554046631,
+            0.882352888584137,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.9200000166893005,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.800000011920929,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.968627393245697,
+            0.9490194916725159,
+            0.95686274766922,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.2199999988079071,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6800000071525574,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9529411196708679,
+            0.6549018621444702,
+            0.741176426410675,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.11999999731779099,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.8199999928474426,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.7882352471351624,
+            0.5607842803001404,
+            0.6039215326309204,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.8600000143051147,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.8799999952316284,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.8470587730407715,
+            0.7058823108673096,
+            0.7294116616249084,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.949999988079071,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.5399999618530273,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.1019606962800026,
+            0.07450974732637405,
+            0.12549009919166565,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.05000000074505806,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7699999809265137,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.7803921103477478,
+            0.20784303545951843,
+            0.3882351815700531,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.550000011920929,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.5529411435127258,
+            0.06274503469467163,
+            0.10588227957487106,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.7200000286102295,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.75,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.33333322405815125,
+            0.8196077942848206,
+            0.7803921103477478,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.07999999821186066,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6499999761581421,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.14117637276649475,
+            0.1333332359790802,
+            0.16078424453735352,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.75,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.2200000286102295,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.0666666030883789,
+            0.06274503469467163,
+            0.07450974732637405,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.8799999952316284,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.8627450466156006,
+            0.8862744569778442,
+            0.8980391621589661,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.949999988079071,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7799999713897705,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.8313725590705872,
+            0.6039215326309204,
+            0.1960783302783966,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.75,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7300000190734863,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.768627405166626,
+            0.19215679168701172,
+            0.5725489854812622,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.5,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.5800000429153442,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9490194916725159,
+            0.5411762595176697,
+            0.7254902124404907,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.07999999821186066,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.5399999618530273,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.09019599109888077,
+            0.0823528841137886,
+            0.1019606962800026,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.05000000074505806,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7599999904632568,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.42745083570480347,
+            0.08627445250749588,
+            0.4941176176071167,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.6800000071525574,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.8431371450424194,
+            0.41568616032600403,
+            0.07058816403150558,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.75,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.25,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.0666666030883789,
+            0.07058816403150558,
+            0.07843128591775894,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.800000011920929,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.4980390667915344,
+            0.850980281829834,
+            0.7647058367729187,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.029999999329447746,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.8199999928474426,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.4980390667915344,
+            0.623529314994812,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.5800000429153442,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.9411764144897461,
+            0.807843029499054,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.21568617224693298,
+            0.15294113755226135,
+            0.13725480437278748,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.3999999761581421,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.41568616032600403,
+            0.29803910851478577,
+            0.27058812975883484,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7200000286102295,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.737254798412323,
+            0.6549018621444702,
+            0.5921568274497986,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.6800000071525574,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.4599999785423279,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.9411764144897461,
+            0.807843029499054,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.3399999737739563,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.7215685844421387,
+            0.7882352471351624,
+            0.5215684771537781,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6000000238418579,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.4980390667915344,
+            0.623529314994812,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6000000238418579,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.33333322405815125,
+            0.8196077942848206,
+            0.7803921103477478,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6000000238418579,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.4078430235385895,
+            0.6823529005050659,
+            0.9098038673400879,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6000000238418579,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.882352888584137,
+            0.5803921222686768,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6000000238418579,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.6470587253570557,
+            0.5450980067253113,
+            0.8941175937652588,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6000000238418579,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.6117644906044006,
+            0.4980390667915344,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6000000238418579,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.9411764144897461,
+            0.807843029499054,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.18000000715255737,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.18823519349098206,
+            0.09019599109888077,
+            0.06274503469467163,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6599999666213989,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.8588234186172485,
+            0.2784312665462494,
+            0.47450965642929077,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.5800000429153442,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.95686274766922,
+            0.2470587193965912,
+            0.3686273694038391,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.5800000429153442,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.1333332359790802,
+            0.7725489735603333,
+            0.3686273694038391,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.5800000429153442,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.21960774064064026,
+            0.741176426410675,
+            0.9725490212440491,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.5800000429153442,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9803921580314636,
+            0.7999998927116394,
+            0.0823528841137886,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.5800000429153442,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.6588234901428223,
+            0.33333322405815125,
+            0.968627393245697,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.5800000429153442,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9764705300331116,
+            0.45098036527633667,
+            0.08627445250749588,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.5800000429153442,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9725490212440491,
+            0.9803921580314636,
+            0.9882352948188782,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7599999904632568,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.4705880880355835,
+            0.6470587253570557,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.699999988079071,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.42745083570480347,
+            0.3843136131763458,
+            0.36470580101013184,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.6499999761581421,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.8199999928474426,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.7215685844421387,
+            0.0313725508749485,
+            0.09411757439374924,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.5399999618530273,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9607842564582825,
+            0.9176470041275024,
+            0.8470587730407715,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.2799999713897705,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.14509797096252441,
+            0.07058816403150558,
+            0.050980329513549805,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.3799999952316284,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.3294116258621216,
+            0.15686264634132385,
+            0.09411757439374924,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.42000001668930054,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.811764657497406,
+            0.7647058367729187,
+            0.6784313321113586,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.7882352471351624,
+            0.5450980067253113,
+            0.27058812975883484,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.850980281829834,
+            0.5450980067253113,
+            0.1333332359790802,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.42000001668930054,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.7176470160484314,
+            0.6078429222106934,
+            0.7882352471351624,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.6599999666213989,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.31764692068099976,
+            0.25098028779029846,
+            0.3411763608455658,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.3700000047683716,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.9411764144897461,
+            0.7058823108673096,
+            0.28627440333366394,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.5099999904632568,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.12941166758537292,
+            0.09019599109888077,
+            0.0666666030883789,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.6200000047683716,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.20392146706581116,
+            0.19215679168701172,
+            0.21568617224693298,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.2799999713897705,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.22352930903434753,
+            0.20784303545951843,
+            0.21960774064064026,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.1600000262260437,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.9098038673400879,
+            0.8627450466156006,
+            0.768627405166626,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.44999998807907104,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.09803912788629532,
+            0.09411757439374924,
+            0.1019606962800026,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.2799999713897705,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6899999976158142,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.1490195095539093,
+            0.15686264634132385,
+            0.1647058129310608,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.7799999713897705,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.6627449989318848,
+            0.18431362509727478,
+            0.14509797096252441,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.2200000286102295,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6800000071525574,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.811764657497406,
+            0.5450980067253113,
+            0.15686264634132385,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.6200000047683716,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7100000381469727,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.882352888584137,
+            0.6313724517822266,
+            0.17647048830986023,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.6800000071525574,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.8470587730407715,
+            0.4392155706882477,
+            0.28235283493995667,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.3399999737739563,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.2200000286102295,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.08627445250749588,
+            0.09019599109888077,
+            0.09803912788629532,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.15000000596046448,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7200000286102295,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.5490195155143738,
+            0.5607842803001404,
+            0.5686274170875549,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.8799999952316284,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.0823528841137886,
+            0.07843128591775894,
+            0.08627445250749588,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.0899999737739563,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6399999856948853,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.14509797096252441,
+            0.15294113755226135,
+            0.1647058129310608,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.7200000286102295,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.050980329513549805,
+            0.047058768570423126,
+            0.05490189790725708,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.04000002145767212,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.5,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9529411196708679,
+            0.6549018621444702,
+            0.733333170413971,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6800000071525574,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9607842564582825,
+            0.7764705419540405,
+            0.8235293626785278,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.009999999776482582,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.44313713908195496,
+            0.1960783302783966,
+            0.2784312665462494,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.3999999761581421,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.550000011920929,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.9411764144897461,
+            0.8980391621589661,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.009999999776482582,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.5,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.6588234901428223,
+            0.21568617224693298,
+            0.3529410660266876,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.05000000074505806,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.4235292673110962,
+            0.18823519349098206,
+            0.2784312665462494,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.2200000286102295,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            1,
+            0.9411764144897461,
+            0.8980391621589661,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.48000001907348633,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.2901959717273712,
+            0.12156853824853897,
+            0.19215679168701172,
+            1
+          ],
+          "type": 0
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.6588234901428223,
+            0.21568617224693298,
+            0.3529410660266876,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.3199999928474426,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7200000286102295,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.7882352471351624,
+            0.5607842803001404,
+            0.5254901051521301,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.7200000286102295,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7300000190734863,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.7882352471351624,
+            0.5607842803001404,
+            0.5254901051521301,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.699999988079071,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            1,
+            0.9411764144897461,
+            0.8980391621589661,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.3999999761581421,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6200000047683716,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.09019599109888077,
+            0.09803912788629532,
+            0.10980384796857834,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.1599999964237213,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 3000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI_AlphaBlend",
+      "keywords": [
+        "_USEVERTEXCOLOR1_ON"
+      ],
+      "props": {
+        "_Transparent": {
+          "value": 0.8400000333786011,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9450979828834534,
+            0.9529411196708679,
+            0.9372548460960388,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.8799999952316284,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.800000011920929,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.7254902124404907,
+            0.7568626999855042,
+            0.7843136787414551,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.7200000286102295,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7300000190734863,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.027450980618596077,
+            0.34901949763298035,
+            0.7803921103477478,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7300000190734863,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.0823528841137886,
+            0.5803921222686768,
+            0.23137244582176208,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7300000190734863,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.8470587730407715,
+            0.09803912788629532,
+            0.07058816403150558,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7300000190734863,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9607842564582825,
+            0.7254902124404907,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 3000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI_AlphaBlend",
+      "keywords": [
+        "_USEVERTEXCOLOR1_ON"
+      ],
+      "props": {
+        "_Transparent": {
+          "value": 0.2687999904155731,
+          "type": 3
+        },
+        "_Smoothness": {
+          "value": 0.9200000166893005,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.8039215207099915,
+            0.9333332777023315,
+            1,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7799999713897705,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.8980391621589661,
+            0.13725480437278748,
+            0.10980384796857834,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6599999666213989,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.45098036527633667,
+            0.47450965642929077,
+            0.5098037123680115,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.0666666030883789,
+            0.07058816403150558,
+            0.07843128591775894,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.2799999713897705,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.42000001668930054,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.09019599109888077,
+            0.09803912788629532,
+            0.10588227957487106,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.8199999928474426,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.8588234186172485,
+            0.8862744569778442,
+            0.9098038673400879,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.8500000238418579,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7200000286102295,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9372548460960388,
+            0.1960783302783966,
+            0.11372541636228561,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.11999999731779099,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.8199999928474426,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.0313725508749485,
+            0.03529411554336548,
+            0.03921568766236305,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7599999904632568,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9490194916725159,
+            0.95686274766922,
+            0.9647058844566345,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.11999999731779099,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7200000286102295,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9490194916725159,
+            0.5450980067253113,
+            0.0666666030883789,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.10000000149011612,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.14117637276649475,
+            0.15294113755226135,
+            0.16862738132476807,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.699999988079071,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.0666666030883789,
+            0.5607842803001404,
+            0.8588234186172485,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.07999999821186066,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.699999988079071,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.768627405166626,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.07999999821186066,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6000000238418579,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9098038673400879,
+            0.6117644906044006,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.05000000074505806,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6599999666213989,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.09411757439374924,
+            0.3529410660266876,
+            0.7725489735603333,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.07999999821186066,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.4599999785423279,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.23137244582176208,
+            0.28235283493995667,
+            0.36078423261642456,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.5199999809265137,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.32156848907470703,
+            0.3843136131763458,
+            0.47843122482299805,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.029999999329447746,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7200000286102295,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.7137254476547241,
+            0.6392155885696411,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.07999999821186066,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.8199999928474426,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9058822989463806,
+            0.8431371450424194,
+            0.7450979351997375,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.8199999928474426,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7400000095367432,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.7137254476547241,
+            0.6392155885696411,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.07999999821186066,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7400000095367432,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.39607828855514526,
+            0.8352940082550049,
+            0.8156862258911133,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.10000000149011612,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.75,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.5607842803001404,
+            0.5803921222686768,
+            0.9098038673400879,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.11999999731779099,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6399999856948853,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.4039214551448822,
+            0.4352940022945404,
+            0.7254902124404907,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.07999999821186066,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6800000071525574,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.39607828855514526,
+            0.8352940082550049,
+            0.8156862258911133,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.05999999865889549,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.48000001907348633,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.3999998867511749,
+            0.3686273694038391,
+            0.5686274170875549,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.5399999618530273,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.968627393245697,
+            0.9098038673400879,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.019999999552965164,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.75,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.850980281829834,
+            0.08627445250749588,
+            0.12549009919166565,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.05000000074505806,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7799999713897705,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.968627393245697,
+            0.9607842564582825,
+            0.9372548460960388,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.05000000074505806,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.8799999952316284,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.14117637276649475,
+            0.15686264634132385,
+            0.17254894971847534,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.30000001192092896,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.5800000429153442,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.09411757439374924,
+            0.09803912788629532,
+            0.10588227957487106,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.05000000074505806,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.8400000333786011,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.9098038673400879,
+            0.925490140914917,
+            0.925490140914917,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.5,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            1,
+            0.30196067690849304,
+            0.0235294122248888,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.5,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            1,
+            0.7098038196563721,
+            0.06274503469467163,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.6000000238418579,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            1,
+            0.9411764144897461,
+            0.6274509429931641,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.6000000238418579,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.0823528841137886,
+            0.07843128591775894,
+            0.08627445250749588,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.19999998807907104,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.699999988079071,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.7450979351997375,
+            0.20392146706581116,
+            0.027450980618596077,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.5,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.6800000071525574,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.19999989867210388,
+            0.1490195095539093,
+            0.12941166758537292,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.800000011920929,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.09019599109888077,
+            0.07843128591775894,
+            0.09019599109888077,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.12000000476837158,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Smoothness": {
+          "value": 0.7200000286102295,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.5529411435127258,
+            0.4941176176071167,
+            0.4078430235385895,
+            1
+          ],
+          "type": 0
+        },
+        "_Metallic": {
+          "value": 0.8600000143051147,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.14117637276649475,
+            0.12549009919166565,
+            0.12549009919166565,
+            1
+          ],
+          "type": 0
+        },
+        "_Smoothness": {
+          "value": 0.25999999046325684,
+          "type": 3
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            0.345098039201,
+            0.192156862727,
+            0.533333333323,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 1,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 1,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.23,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            0.345098039201,
+            0.192156862727,
+            0.533333333323,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 1,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 0.84,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.77,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.77,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.45,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            0.403921568614,
+            0.207843137237,
+            0.545098039205,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 1,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 1,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.27,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            0.403921568614,
+            0.207843137237,
+            0.545098039205,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 1,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 0.84,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.73,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.73,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.45,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            0.666666666659,
+            0.470588235282,
+            0.258823529395,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.29,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            0.666666666659,
+            0.470588235282,
+            0.258823529395,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 1,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.71,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.71,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.88,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            0.258823529395,
+            0.25098039214,
+            0.294117647043,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.34,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            0.258823529395,
+            0.25098039214,
+            0.294117647043,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 1,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.6599999999999999,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.6599999999999999,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.74,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            0.145098039196,
+            0.129411764686,
+            0.172549019589,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.76,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            0.145098039196,
+            0.129411764686,
+            0.172549019589,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 1,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.24,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.24,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.01,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            0.133333333313,
+            0.105882352921,
+            0.172549019589,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.72,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            0.133333333313,
+            0.105882352921,
+            0.172549019589,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 1,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.28,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.28,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            0.623529411756,
+            0.909803921567,
+            0.811764705878,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0.539215686258,
+            1.06372549019,
+            0.901960784306,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.23,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            0.623529411756,
+            0.909803921567,
+            0.811764705878,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 1,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.77,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.77,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.13,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.584313725481,
+            0.164705882334,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 1,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 1,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.24,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            1,
+            0.584313725481,
+            0.164705882334,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 1,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 0.84,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.76,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.76,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.18,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.921568627449,
+            0.541176470578,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            1.25,
+            0.970588235288,
+            0.294117647037,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.27,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            1,
+            0.921568627449,
+            0.541176470578,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 1,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.73,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.73,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.05,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 3000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI_AlphaBlend",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_Alpha": {
+          "value": 0.45,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            0.890196078429,
+            0.627450980384,
+            0.286274509788,
+            0.45
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 1,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 1,
+          "type": 2
+        },
+        "_Transparent": {
+          "value": 0.45,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 0.84,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.1,
+          "type": 2
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            0.890196078429,
+            0.627450980384,
+            0.286274509788,
+            0.45
+          ],
+          "type": 0
+        },
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 1,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.87,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.13,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.87,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            0.129411764686,
+            0.113725490176,
+            0.168627450961,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.48,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            0.129411764686,
+            0.113725490176,
+            0.168627450961,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 1,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.52,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.52,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.14,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            0.976470588235,
+            0.53725490195,
+            0.125490196058,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 1,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 1,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.32,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            0.976470588235,
+            0.53725490195,
+            0.125490196058,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 1,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 0.84,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.6799999999999999,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.6799999999999999,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.18,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            0.403921568614,
+            0.207843137237,
+            0.545098039205,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 1,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 1,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.27,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            0.403921568614,
+            0.207843137237,
+            0.545098039205,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 1,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 0.84,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.73,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.73,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.45,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            0.843137254898,
+            0.635294117639,
+            0.309803921553,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.29,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            0.843137254898,
+            0.635294117639,
+            0.309803921553,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 1,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.71,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.71,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.88,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            0.258823529395,
+            0.25098039214,
+            0.294117647043,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.34,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            0.258823529395,
+            0.25098039214,
+            0.294117647043,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 1,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.6599999999999999,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.6599999999999999,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.74,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            0.145098039196,
+            0.129411764686,
+            0.172549019589,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.76,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            0.145098039196,
+            0.129411764686,
+            0.172549019589,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 1,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.24,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.24,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.01,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            0.28235294116,
+            0.129411764686,
+            0.372549019593,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.72,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            0.28235294116,
+            0.129411764686,
+            0.372549019593,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 1,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.28,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.28,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.89,
+            0.48,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            1.25,
+            0.72,
+            0.12,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.23,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            1,
+            0.89,
+            0.48,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 1,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.77,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.77,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.13,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.584313725481,
+            0.164705882334,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 1,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 1,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.24,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            1,
+            0.584313725481,
+            0.164705882334,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 1,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 0.84,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.76,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.76,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.18,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            1,
+            0.921568627449,
+            0.541176470578,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            1.25,
+            0.970588235288,
+            0.294117647037,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.27,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            1,
+            0.921568627449,
+            0.541176470578,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 1,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.73,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.73,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.05,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 3000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI_AlphaBlend",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_Alpha": {
+          "value": 0.45,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            0.890196078429,
+            0.627450980384,
+            0.286274509788,
+            0.45
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 1,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 1,
+          "type": 2
+        },
+        "_Transparent": {
+          "value": 0.45,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 0.84,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.1,
+          "type": 2
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            0.890196078429,
+            0.627450980384,
+            0.286274509788,
+            0.45
+          ],
+          "type": 0
+        },
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 1,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.87,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.13,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.87,
+          "type": 2
+        }
+      }
+    },
+    {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [],
+      "newVehicle": true,
+      "props": {
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_Alpha": {
+          "value": 1,
+          "type": 2
+        },
+        "_BaseColor": {
+          "value": [
+            0.129411764686,
+            0.113725490176,
+            0.168627450961,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": 0
+        },
+        "_ClearCoatMask": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Roughness": {
+          "value": 0.48,
+          "type": 2
+        },
+        "_Color": {
+          "value": [
+            0.129411764686,
+            0.113725490176,
+            0.168627450961,
+            1
+          ],
+          "type": 0
+        },
+        "_UseVertexColor": {
+          "value": 0,
+          "type": 2
+        },
+        "_UseVertexColor1": {
+          "value": 0,
+          "type": 2
+        },
+        "_Clearcoat": {
+          "value": 0,
+          "type": 2
+        },
+        "_ClearCoatSmoothness": {
+          "value": 1,
+          "type": 2
+        },
+        "_Glossiness": {
+          "value": 0.52,
+          "type": 2
+        },
+        "_Smoothness": {
+          "value": 0.52,
+          "type": 2
+        },
+        "_Metallic": {
+          "value": 0.14,
+          "type": 2
+        }
+      }
+    }
+  ],
+  "fleet": [
+    {
+      "name": "玩具",
+      "parts": [
+        {
+          "name": "玩具",
+          "subMeshes": 45,
+          "mats": [
+            1,
+            2,
+            3,
+            3,
+            4,
+            3,
+            3,
+            5,
+            5,
+            2,
+            2,
+            3,
+            4,
+            3,
+            2,
+            3,
+            3,
+            3,
+            2,
+            4,
+            4,
+            2,
+            6,
+            2,
+            7,
+            7,
+            4,
+            1,
+            1,
+            1,
+            4,
+            4,
+            2,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            8,
+            8,
+            8,
+            8,
+            8,
+            8
+          ],
+          "vertices": 14260
+        },
+        {
+          "name": "LP03_TOYBOX_Wheel_FL_Part_01",
+          "subMeshes": 14,
+          "mats": [
+            9,
+            3,
+            1,
+            8,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "vertices": 900
+        },
+        {
+          "name": "LP03_TOYBOX_Wheel_FR_Part_01",
+          "subMeshes": 14,
+          "mats": [
+            9,
+            3,
+            1,
+            8,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "vertices": 900
+        },
+        {
+          "name": "LP03_TOYBOX_Wheel_RL_Part_01",
+          "subMeshes": 14,
+          "mats": [
+            9,
+            3,
+            1,
+            8,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "vertices": 900
+        },
+        {
+          "name": "LP03_TOYBOX_Wheel_RR_Part_01",
+          "subMeshes": 14,
+          "mats": [
+            9,
+            3,
+            1,
+            8,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+          ],
+          "vertices": 900
+        }
+      ]
+    },
+    {
+      "name": "莓爆花",
+      "parts": [
+        {
+          "name": "莓爆花",
+          "subMeshes": 40,
+          "mats": [
+            11,
+            12,
+            13,
+            11,
+            14,
+            14,
+            15,
+            15,
+            15,
+            16,
+            15,
+            16,
+            15,
+            15,
+            14,
+            14,
+            14,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            11,
+            14,
+            11,
+            11,
+            14,
+            14,
+            14,
+            14,
+            14
+          ],
+          "vertices": 9996
+        },
+        {
+          "name": "LP39_RACERPOP_Wheel_FL_Part_01",
+          "subMeshes": 8,
+          "mats": [
+            17,
+            18,
+            19,
+            18,
+            18,
+            18,
+            18,
+            18
+          ],
+          "vertices": 1211
+        },
+        {
+          "name": "LP39_RACERPOP_Wheel_FR_Part_01",
+          "subMeshes": 8,
+          "mats": [
+            17,
+            18,
+            19,
+            18,
+            18,
+            18,
+            18,
+            18
+          ],
+          "vertices": 1211
+        },
+        {
+          "name": "LP39_RACERPOP_Wheel_RL_Part_01",
+          "subMeshes": 8,
+          "mats": [
+            17,
+            18,
+            19,
+            18,
+            18,
+            18,
+            18,
+            18
+          ],
+          "vertices": 1211
+        },
+        {
+          "name": "LP39_RACERPOP_Wheel_RR_Part_01",
+          "subMeshes": 8,
+          "mats": [
+            17,
+            18,
+            19,
+            18,
+            18,
+            18,
+            18,
+            18
+          ],
+          "vertices": 1211
+        }
+      ]
+    },
+    {
+      "name": "绯樱",
+      "parts": [
+        {
+          "name": "绯樱",
+          "subMeshes": 121,
+          "mats": [
+            20,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            21,
+            22,
+            23,
+            23,
+            23,
+            23,
+            22,
+            23,
+            23,
+            23,
+            23,
+            22,
+            23,
+            23,
+            23,
+            23,
+            22,
+            23,
+            23,
+            23,
+            23,
+            23,
+            23,
+            23,
+            23,
+            23,
+            23,
+            23,
+            23,
+            23,
+            23,
+            23,
+            23,
+            22,
+            22,
+            22,
+            22,
+            23,
+            23,
+            23,
+            23,
+            20,
+            20,
+            24,
+            24,
+            23,
+            23,
+            23,
+            23,
+            22,
+            22,
+            22,
+            22,
+            23,
+            23,
+            23,
+            22,
+            22,
+            22,
+            22,
+            22,
+            22,
+            22,
+            22,
+            22,
+            20,
+            25,
+            25,
+            22,
+            25,
+            25,
+            22,
+            22,
+            25,
+            22,
+            20,
+            20,
+            20,
+            24,
+            24,
+            24,
+            25,
+            25,
+            25,
+            24,
+            24,
+            24,
+            24,
+            24,
+            26,
+            27,
+            24,
+            26,
+            27,
+            25,
+            28
+          ],
+          "vertices": 5453
+        },
+        {
+          "name": "LP05B_Wheel_FL_Part_01",
+          "subMeshes": 11,
+          "mats": [
+            29,
+            30,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31
+          ],
+          "vertices": 538
+        },
+        {
+          "name": "LP05B_Wheel_FR_Part_01",
+          "subMeshes": 11,
+          "mats": [
+            29,
+            30,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31
+          ],
+          "vertices": 538
+        },
+        {
+          "name": "LP05B_Wheel_RL_Part_01",
+          "subMeshes": 11,
+          "mats": [
+            29,
+            30,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31
+          ],
+          "vertices": 538
+        },
+        {
+          "name": "LP05B_Wheel_RR_Part_01",
+          "subMeshes": 11,
+          "mats": [
+            29,
+            30,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31
+          ],
+          "vertices": 538
+        }
+      ]
+    },
+    {
+      "name": "暴走",
+      "parts": [
+        {
+          "name": "暴走",
+          "subMeshes": 121,
+          "mats": [
+            32,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            33,
+            31,
+            30,
+            30,
+            30,
+            30,
+            31,
+            30,
+            30,
+            30,
+            30,
+            31,
+            30,
+            30,
+            30,
+            30,
+            31,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            31,
+            31,
+            31,
+            31,
+            30,
+            30,
+            30,
+            30,
+            32,
+            32,
+            34,
+            34,
+            30,
+            30,
+            30,
+            30,
+            31,
+            31,
+            31,
+            31,
+            30,
+            30,
+            30,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            32,
+            35,
+            35,
+            31,
+            35,
+            35,
+            31,
+            31,
+            35,
+            31,
+            32,
+            32,
+            32,
+            34,
+            34,
+            34,
+            35,
+            35,
+            35,
+            34,
+            34,
+            34,
+            34,
+            34,
+            26,
+            36,
+            34,
+            26,
+            36,
+            35,
+            28
+          ],
+          "vertices": 5453
+        },
+        {
+          "name": "LP05B_Wheel_FL_Part_01",
+          "subMeshes": 11,
+          "mats": [
+            29,
+            30,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31
+          ],
+          "vertices": 538
+        },
+        {
+          "name": "LP05B_Wheel_FR_Part_01",
+          "subMeshes": 11,
+          "mats": [
+            29,
+            30,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31
+          ],
+          "vertices": 538
+        },
+        {
+          "name": "LP05B_Wheel_RL_Part_01",
+          "subMeshes": 11,
+          "mats": [
+            29,
+            30,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31
+          ],
+          "vertices": 538
+        },
+        {
+          "name": "LP05B_Wheel_RR_Part_01",
+          "subMeshes": 11,
+          "mats": [
+            29,
+            30,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31
+          ],
+          "vertices": 538
+        }
+      ]
+    },
+    {
+      "name": "薄荷糖",
+      "parts": [
+        {
+          "name": "薄荷糖",
+          "subMeshes": 83,
+          "mats": [
+            37,
+            38,
+            38,
+            38,
+            38,
+            38,
+            38,
+            39,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            39,
+            39,
+            39,
+            41,
+            42,
+            42,
+            42,
+            41,
+            41,
+            38,
+            37,
+            43,
+            37,
+            43,
+            38,
+            38,
+            38,
+            44,
+            44,
+            44,
+            45,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            46,
+            47,
+            48,
+            49,
+            38,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            43,
+            43,
+            38,
+            38,
+            44,
+            44,
+            41,
+            37,
+            37,
+            37,
+            42,
+            42,
+            42,
+            42,
+            42,
+            42,
+            42,
+            42,
+            42,
+            42
+          ],
+          "vertices": 4416
+        },
+        {
+          "name": "LP14_Wheel_FL_Part_01",
+          "subMeshes": 16,
+          "mats": [
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            55,
+            56,
+            57,
+            58,
+            59,
+            62,
+            63
+          ],
+          "vertices": 992
+        },
+        {
+          "name": "LP14_Wheel_FR_Part_01",
+          "subMeshes": 16,
+          "mats": [
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            55,
+            56,
+            57,
+            58,
+            59,
+            62,
+            63
+          ],
+          "vertices": 992
+        },
+        {
+          "name": "LP14_Wheel_RL_Part_01",
+          "subMeshes": 16,
+          "mats": [
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            55,
+            56,
+            57,
+            58,
+            59,
+            62,
+            63
+          ],
+          "vertices": 992
+        },
+        {
+          "name": "LP14_Wheel_RR_Part_01",
+          "subMeshes": 16,
+          "mats": [
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            55,
+            56,
+            57,
+            58,
+            59,
+            62,
+            63
+          ],
+          "vertices": 992
+        }
+      ]
+    },
+    {
+      "name": "甜品",
+      "parts": [
+        {
+          "name": "甜品",
+          "subMeshes": 83,
+          "mats": [
+            37,
+            62,
+            62,
+            62,
+            62,
+            62,
+            62,
+            64,
+            65,
+            65,
+            65,
+            65,
+            65,
+            65,
+            65,
+            64,
+            64,
+            64,
+            66,
+            67,
+            67,
+            67,
+            66,
+            66,
+            62,
+            37,
+            63,
+            37,
+            63,
+            62,
+            62,
+            62,
+            68,
+            68,
+            68,
+            69,
+            69,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            55,
+            56,
+            57,
+            58,
+            62,
+            65,
+            65,
+            65,
+            65,
+            65,
+            65,
+            65,
+            63,
+            63,
+            62,
+            62,
+            68,
+            68,
+            66,
+            37,
+            37,
+            37,
+            67,
+            67,
+            67,
+            67,
+            67,
+            67,
+            67,
+            67,
+            67,
+            67
+          ],
+          "vertices": 4416
+        },
+        {
+          "name": "LP14_Wheel_FL_Part_01",
+          "subMeshes": 16,
+          "mats": [
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            55,
+            56,
+            57,
+            58,
+            59,
+            62,
+            63
+          ],
+          "vertices": 992
+        },
+        {
+          "name": "LP14_Wheel_FR_Part_01",
+          "subMeshes": 16,
+          "mats": [
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            55,
+            56,
+            57,
+            58,
+            59,
+            62,
+            63
+          ],
+          "vertices": 992
+        },
+        {
+          "name": "LP14_Wheel_RL_Part_01",
+          "subMeshes": 16,
+          "mats": [
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            55,
+            56,
+            57,
+            58,
+            59,
+            62,
+            63
+          ],
+          "vertices": 992
+        },
+        {
+          "name": "LP14_Wheel_RR_Part_01",
+          "subMeshes": 16,
+          "mats": [
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            55,
+            56,
+            57,
+            58,
+            59,
+            62,
+            63
+          ],
+          "vertices": 992
+        }
+      ]
+    },
+    {
+      "name": "牛牛",
+      "parts": [
+        {
+          "name": "牛牛",
+          "subMeshes": 109,
+          "mats": [
+            70,
+            70,
+            70,
+            70,
+            71,
+            72,
+            72,
+            73,
+            73,
+            74,
+            74,
+            75,
+            75,
+            70,
+            71,
+            70,
+            71,
+            76,
+            76,
+            77,
+            73,
+            77,
+            73,
+            78,
+            78,
+            78,
+            78,
+            79,
+            72,
+            73,
+            73,
+            80,
+            81,
+            81,
+            75,
+            75,
+            82,
+            82,
+            82,
+            82,
+            81,
+            81,
+            83,
+            73,
+            73,
+            73,
+            73,
+            72,
+            72,
+            75,
+            75,
+            75,
+            75,
+            80,
+            80,
+            79,
+            79,
+            81,
+            81,
+            81,
+            81,
+            83,
+            83,
+            82,
+            82,
+            82,
+            82,
+            82,
+            82,
+            82,
+            82,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            73,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            80,
+            80,
+            79,
+            79,
+            79,
+            79,
+            84,
+            85,
+            85,
+            85,
+            85,
+            85,
+            79
+          ],
+          "vertices": 17655
+        },
+        {
+          "name": "NL01_NIULAI_Wheel_FL_Part_01",
+          "subMeshes": 27,
+          "mats": [
+            86,
+            81,
+            81,
+            87,
+            81,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88
+          ],
+          "vertices": 2377
+        },
+        {
+          "name": "NL01_NIULAI_Wheel_FR_Part_01",
+          "subMeshes": 27,
+          "mats": [
+            86,
+            81,
+            81,
+            87,
+            81,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88
+          ],
+          "vertices": 2377
+        },
+        {
+          "name": "NL01_NIULAI_Wheel_RL_Part_01",
+          "subMeshes": 27,
+          "mats": [
+            86,
+            81,
+            81,
+            87,
+            81,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88
+          ],
+          "vertices": 2377
+        },
+        {
+          "name": "NL01_NIULAI_Wheel_RR_Part_01",
+          "subMeshes": 27,
+          "mats": [
+            86,
+            81,
+            81,
+            87,
+            81,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88
+          ],
+          "vertices": 2377
+        }
+      ]
+    },
+    {
+      "name": "牛粉",
+      "parts": [
+        {
+          "name": "牛粉",
+          "subMeshes": 109,
+          "mats": [
+            89,
+            89,
+            89,
+            89,
+            90,
+            91,
+            91,
+            92,
+            92,
+            74,
+            74,
+            93,
+            93,
+            89,
+            90,
+            89,
+            90,
+            94,
+            94,
+            95,
+            92,
+            95,
+            92,
+            96,
+            96,
+            96,
+            96,
+            79,
+            91,
+            92,
+            92,
+            97,
+            98,
+            98,
+            93,
+            93,
+            99,
+            99,
+            99,
+            99,
+            98,
+            98,
+            100,
+            92,
+            92,
+            92,
+            92,
+            91,
+            91,
+            93,
+            93,
+            93,
+            93,
+            97,
+            97,
+            79,
+            79,
+            98,
+            98,
+            98,
+            98,
+            100,
+            100,
+            99,
+            99,
+            99,
+            99,
+            99,
+            99,
+            99,
+            99,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            92,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            79,
+            97,
+            97,
+            79,
+            79,
+            79,
+            79,
+            84,
+            85,
+            85,
+            85,
+            85,
+            85,
+            79
+          ],
+          "vertices": 17655
+        },
+        {
+          "name": "NL01_NIULAI_Wheel_FL_Part_01",
+          "subMeshes": 27,
+          "mats": [
+            86,
+            81,
+            81,
+            87,
+            81,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88
+          ],
+          "vertices": 2377
+        },
+        {
+          "name": "NL01_NIULAI_Wheel_FR_Part_01",
+          "subMeshes": 27,
+          "mats": [
+            86,
+            81,
+            81,
+            87,
+            81,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88
+          ],
+          "vertices": 2377
+        },
+        {
+          "name": "NL01_NIULAI_Wheel_RL_Part_01",
+          "subMeshes": 27,
+          "mats": [
+            86,
+            81,
+            81,
+            87,
+            81,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88
+          ],
+          "vertices": 2377
+        },
+        {
+          "name": "NL01_NIULAI_Wheel_RR_Part_01",
+          "subMeshes": 27,
+          "mats": [
+            86,
+            81,
+            81,
+            87,
+            81,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            87,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88,
+            88
+          ],
+          "vertices": 2377
+        }
+      ]
+    },
+    {
+      "name": "积木",
+      "parts": [
+        {
+          "name": "积木",
+          "subMeshes": 138,
+          "mats": [
+            101,
+            102,
+            103,
+            102,
+            103,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            105,
+            105,
+            105,
+            105,
+            105,
+            105,
+            105,
+            105,
+            105,
+            105,
+            105,
+            105,
+            105,
+            105,
+            105,
+            105,
+            105,
+            105,
+            106,
+            106,
+            106,
+            106,
+            106,
+            106,
+            107,
+            107,
+            107,
+            107,
+            104,
+            104,
+            104,
+            104,
+            104,
+            104,
+            106,
+            106,
+            106,
+            106,
+            104,
+            104,
+            104,
+            104,
+            106,
+            108,
+            108,
+            104,
+            104,
+            104,
+            105,
+            106,
+            106,
+            106,
+            107,
+            107,
+            107,
+            104,
+            104,
+            106,
+            106,
+            109,
+            109,
+            109,
+            109,
+            110,
+            110,
+            110,
+            110,
+            101,
+            101,
+            101,
+            108,
+            108,
+            108
+          ],
+          "vertices": 10487
+        },
+        {
+          "name": "LP26_Wheel_FL_Part_01",
+          "subMeshes": 15,
+          "mats": [
+            111,
+            103,
+            101,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111
+          ],
+          "vertices": 578
+        },
+        {
+          "name": "LP26_Wheel_FR_Part_01",
+          "subMeshes": 15,
+          "mats": [
+            111,
+            103,
+            101,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111
+          ],
+          "vertices": 578
+        },
+        {
+          "name": "LP26_Wheel_RL_Part_01",
+          "subMeshes": 15,
+          "mats": [
+            111,
+            103,
+            101,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111
+          ],
+          "vertices": 578
+        },
+        {
+          "name": "LP26_Wheel_RR_Part_01",
+          "subMeshes": 15,
+          "mats": [
+            111,
+            103,
+            101,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111,
+            111
+          ],
+          "vertices": 578
+        }
+      ]
+    },
+    {
+      "name": "宝宝巴",
+      "parts": [
+        {
+          "name": "LP37_BUSKID_SUNNY_Wheel_FL_Part_01",
+          "subMeshes": 32,
+          "mats": [
+            112,
+            112,
+            113,
+            113,
+            114,
+            114,
+            114,
+            114,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112
+          ],
+          "vertices": 1328
+        },
+        {
+          "name": "LP37_BUSKID_SUNNY_Wheel_FR_Part_01",
+          "subMeshes": 32,
+          "mats": [
+            112,
+            112,
+            113,
+            113,
+            114,
+            114,
+            114,
+            114,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112
+          ],
+          "vertices": 1328
+        },
+        {
+          "name": "LP37_BUSKID_SUNNY_Wheel_RL_Part_01",
+          "subMeshes": 32,
+          "mats": [
+            112,
+            112,
+            113,
+            113,
+            114,
+            114,
+            114,
+            114,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112
+          ],
+          "vertices": 1328
+        },
+        {
+          "name": "LP37_BUSKID_SUNNY_Wheel_RR_Part_01",
+          "subMeshes": 32,
+          "mats": [
+            112,
+            112,
+            113,
+            113,
+            114,
+            114,
+            114,
+            114,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112
+          ],
+          "vertices": 1328
+        },
+        {
+          "name": "LP37_BUSKID_SUNNY_VisualBody",
+          "subMeshes": 71,
+          "mats": [
+            115,
+            115,
+            114,
+            113,
+            116,
+            116,
+            113,
+            116,
+            113,
+            116,
+            112,
+            117,
+            117,
+            114,
+            113,
+            114,
+            113,
+            113,
+            113,
+            113,
+            113,
+            118,
+            119,
+            120,
+            114,
+            119,
+            119,
+            120,
+            121,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            122,
+            122,
+            122,
+            123,
+            124,
+            124,
+            124,
+            123,
+            124,
+            124,
+            124,
+            123,
+            124,
+            124,
+            124,
+            123,
+            124,
+            124,
+            124,
+            123,
+            124,
+            124,
+            124,
+            123,
+            112,
+            112,
+            112,
+            114
+          ],
+          "vertices": 5052
+        }
+      ]
+    },
+    {
+      "name": "星梦巴",
+      "parts": [
+        {
+          "name": "LP37_BUSKID_SUNNY_Wheel_FL_Part_01",
+          "subMeshes": 32,
+          "mats": [
+            112,
+            112,
+            113,
+            113,
+            114,
+            114,
+            114,
+            114,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112
+          ],
+          "vertices": 1328
+        },
+        {
+          "name": "LP37_BUSKID_SUNNY_Wheel_FR_Part_01",
+          "subMeshes": 32,
+          "mats": [
+            112,
+            112,
+            113,
+            113,
+            114,
+            114,
+            114,
+            114,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112
+          ],
+          "vertices": 1328
+        },
+        {
+          "name": "LP37_BUSKID_SUNNY_Wheel_RL_Part_01",
+          "subMeshes": 32,
+          "mats": [
+            112,
+            112,
+            113,
+            113,
+            114,
+            114,
+            114,
+            114,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112
+          ],
+          "vertices": 1328
+        },
+        {
+          "name": "LP37_BUSKID_SUNNY_Wheel_RR_Part_01",
+          "subMeshes": 32,
+          "mats": [
+            112,
+            112,
+            113,
+            113,
+            114,
+            114,
+            114,
+            114,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112,
+            112
+          ],
+          "vertices": 1328
+        },
+        {
+          "name": "LP37_BUSKID_SUNNY_VisualBody",
+          "subMeshes": 71,
+          "mats": [
+            115,
+            115,
+            125,
+            126,
+            116,
+            116,
+            126,
+            116,
+            126,
+            116,
+            112,
+            127,
+            127,
+            125,
+            126,
+            125,
+            126,
+            126,
+            126,
+            126,
+            126,
+            118,
+            128,
+            129,
+            125,
+            128,
+            128,
+            129,
+            130,
+            129,
+            129,
+            129,
+            129,
+            129,
+            129,
+            129,
+            129,
+            129,
+            129,
+            129,
+            129,
+            129,
+            129,
+            131,
+            131,
+            131,
+            132,
+            133,
+            133,
+            133,
+            132,
+            133,
+            133,
+            133,
+            132,
+            133,
+            133,
+            133,
+            132,
+            133,
+            133,
+            133,
+            132,
+            133,
+            133,
+            133,
+            132,
+            112,
+            112,
+            112,
+            125
+          ],
+          "vertices": 5052
+        }
+      ]
+    },
+    {
+      "name": "爆米花",
+      "parts": [
+        {
+          "name": "爆米花",
+          "subMeshes": 40,
+          "mats": [
+            134,
+            135,
+            136,
+            134,
+            137,
+            137,
+            19,
+            19,
+            19,
+            138,
+            19,
+            138,
+            19,
+            19,
+            137,
+            137,
+            137,
+            19,
+            19,
+            19,
+            19,
+            19,
+            19,
+            134,
+            134,
+            134,
+            134,
+            134,
+            134,
+            134,
+            134,
+            134,
+            137,
+            134,
+            134,
+            137,
+            137,
+            137,
+            137,
+            137
+          ],
+          "vertices": 9996
+        },
+        {
+          "name": "LP39_RACERPOP_Wheel_FL_Part_01",
+          "subMeshes": 8,
+          "mats": [
+            17,
+            18,
+            19,
+            18,
+            18,
+            18,
+            18,
+            18
+          ],
+          "vertices": 1211
+        },
+        {
+          "name": "LP39_RACERPOP_Wheel_FR_Part_01",
+          "subMeshes": 8,
+          "mats": [
+            17,
+            18,
+            19,
+            18,
+            18,
+            18,
+            18,
+            18
+          ],
+          "vertices": 1211
+        },
+        {
+          "name": "LP39_RACERPOP_Wheel_RL_Part_01",
+          "subMeshes": 8,
+          "mats": [
+            17,
+            18,
+            19,
+            18,
+            18,
+            18,
+            18,
+            18
+          ],
+          "vertices": 1211
+        },
+        {
+          "name": "LP39_RACERPOP_Wheel_RR_Part_01",
+          "subMeshes": 8,
+          "mats": [
+            17,
+            18,
+            19,
+            18,
+            18,
+            18,
+            18,
+            18
+          ],
+          "vertices": 1211
+        }
+      ]
+    },
+    {
+      "name": "烈焰",
+      "parts": [
+        {
+          "name": "烈焰",
+          "subMeshes": 17,
+          "mats": [
+            139,
+            140,
+            141,
+            142,
+            139,
+            143,
+            144,
+            145,
+            140,
+            144,
+            146,
+            144,
+            146,
+            147,
+            146,
+            144,
+            144
+          ],
+          "vertices": 16967
+        },
+        {
+          "name": "FLAME_KART_Wheel_FL_Part_01",
+          "subMeshes": 5,
+          "mats": [
+            139,
+            140,
+            146,
+            145,
+            144
+          ],
+          "vertices": 8848
+        },
+        {
+          "name": "FLAME_KART_Wheel_FR_Part_01",
+          "subMeshes": 5,
+          "mats": [
+            139,
+            140,
+            146,
+            145,
+            144
+          ],
+          "vertices": 8848
+        },
+        {
+          "name": "FLAME_KART_Wheel_RL_Part_01",
+          "subMeshes": 5,
+          "mats": [
+            139,
+            140,
+            146,
+            145,
+            144
+          ],
+          "vertices": 8854
+        },
+        {
+          "name": "FLAME_KART_Wheel_RR_Part_01",
+          "subMeshes": 5,
+          "mats": [
+            139,
+            140,
+            146,
+            145,
+            144
+          ],
+          "vertices": 8854
+        }
+      ]
+    },
+    {
+      "name": "赤巡",
+      "parts": [
+        {
+          "name": "赤巡",
+          "subMeshes": 17,
+          "mats": [
+            139,
+            140,
+            141,
+            143,
+            139,
+            142,
+            144,
+            147,
+            144,
+            146,
+            146,
+            146,
+            144,
+            139,
+            145,
+            144,
+            139
+          ],
+          "vertices": 11768
+        },
+        {
+          "name": "FLAME_MOTO_Wheel_F_Part_01",
+          "subMeshes": 5,
+          "mats": [
+            139,
+            140,
+            146,
+            145,
+            144
+          ],
+          "vertices": 9016
+        },
+        {
+          "name": "FLAME_MOTO_Wheel_R_Part_01",
+          "subMeshes": 5,
+          "mats": [
+            139,
+            140,
+            146,
+            145,
+            144
+          ],
+          "vertices": 9016
+        }
+      ]
+    },
+    {
+      "name": "暮翼巡游",
+      "hideCarrier": true,
+      "parts": [
+        {
+          "subMeshes": 11,
+          "strictVertices": false,
+          "name": "Body",
+          "mats": [
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158
+          ],
+          "vertices": 19261
+        },
+        {
+          "subMeshes": 4,
+          "strictVertices": false,
+          "name": "Wheel_FL",
+          "mats": [
+            148,
+            149,
+            150,
+            152
+          ],
+          "vertices": 2289
+        },
+        {
+          "subMeshes": 4,
+          "strictVertices": false,
+          "name": "Wheel_FR",
+          "mats": [
+            148,
+            149,
+            150,
+            152
+          ],
+          "vertices": 2289
+        },
+        {
+          "subMeshes": 4,
+          "strictVertices": false,
+          "name": "Wheel_RL",
+          "mats": [
+            148,
+            149,
+            150,
+            152
+          ],
+          "vertices": 2289
+        },
+        {
+          "subMeshes": 4,
+          "strictVertices": false,
+          "name": "Wheel_RR",
+          "mats": [
+            148,
+            149,
+            150,
+            152
+          ],
+          "vertices": 2289
+        }
+      ]
+    },
+    {
+      "name": "甜咒南瓜",
+      "hideCarrier": true,
+      "parts": [
+        {
+          "subMeshes": 9,
+          "strictVertices": false,
+          "name": "Body",
+          "mats": [
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            168
+          ],
+          "vertices": 14823
+        },
+        {
+          "subMeshes": 3,
+          "strictVertices": false,
+          "name": "Wheel_FL",
+          "mats": [
+            159,
+            161,
+            163
+          ],
+          "vertices": 2289
+        },
+        {
+          "subMeshes": 3,
+          "strictVertices": false,
+          "name": "Wheel_FR",
+          "mats": [
+            159,
+            161,
+            163
+          ],
+          "vertices": 2289
+        },
+        {
+          "subMeshes": 3,
+          "strictVertices": false,
+          "name": "Wheel_RL",
+          "mats": [
+            159,
+            161,
+            163
+          ],
+          "vertices": 2289
+        },
+        {
+          "subMeshes": 3,
+          "strictVertices": false,
+          "name": "Wheel_RR",
+          "mats": [
+            159,
+            161,
+            163
+          ],
+          "vertices": 2289
+        }
+      ]
+    }
+  ],
+  "defaults": {
+    "Douyin/AI/PBR/EnvLit_AI_AlphaBlend": {
+      "queue": 3000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI_AlphaBlend",
+      "keywords": [
+        "_USEVERTEXCOLOR1_ON"
+      ],
+      "props": {
+        "_BaseColor": {
+          "value": [
+            0.8745097517967224,
+            0.9490194916725159,
+            1,
+            1
+          ],
+          "type": 0
+        },
+        "_ParallaxTexHeight": {
+          "value": 0,
+          "type": 2
+        },
+        "_EmissionColor": {
+          "value": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "type": 0
+        },
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_Transparent": {
+          "value": 0.8600000143051147,
+          "type": 3
+        },
+        "_ParallaxTexAlpha1": {
+          "value": 0,
+          "type": 3
+        },
+        "_Zwrite": {
+          "value": 0,
+          "type": 2
+        },
+        "_NormalmapSpeed": {
+          "value": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "type": 1
+        },
+        "_Smoothness": {
+          "value": 0.8999999761581421,
+          "type": 3
+        },
+        "_AlphaCutoff": {
+          "value": 0,
+          "type": 3
+        },
+        "_CustomCubeColorIntensity": {
+          "value": 1,
+          "type": 3
+        },
+        "_Metallic": {
+          "value": 0.05000000074505806,
+          "type": 3
+        },
+        "_FresnelInt": {
+          "value": 3,
+          "type": 3
+        },
+        "_CustomCubemapSmoothFix": {
+          "value": 0,
+          "type": 3
+        },
+        "_NormalScale": {
+          "value": 1,
+          "type": 3
+        },
+        "_Cull_Mode1": {
+          "value": 2,
+          "type": 2
+        },
+        "_BaseTexSpeed": {
+          "value": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "type": 1
+        },
+        "_EmissionMaskSpeed": {
+          "value": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "type": 1
+        },
+        "_AOIntensity": {
+          "value": 2,
+          "type": 3
+        },
+        "_RimPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_EmissionTexSpeed": {
+          "value": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "type": 1
+        },
+        "_ParallaxTexColor1": {
+          "value": [
+            1,
+            1,
+            1,
+            0
+          ],
+          "type": 0
+        },
+        "_UseVertexColor1": {
+          "value": 1,
+          "type": 2
+        },
+        "_CustomCubeColor": {
+          "value": [
+            1,
+            1,
+            1,
+            0
+          ],
+          "type": 0
+        },
+        "_ORMSpeed": {
+          "value": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "type": 1
+        },
+        "_CullMode": {
+          "value": 2,
+          "type": 2
+        },
+        "_ParallaxTexPower1": {
+          "value": 1,
+          "type": 2
+        },
+        "_RimColor": {
+          "value": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "type": 0
+        }
+      }
+    },
+    "Douyin/AI/PBR/EnvLit_AI": {
+      "queue": 2000,
+      "shader": "Douyin/AI/PBR/EnvLit_AI",
+      "keywords": [
+        "_USEVERTEXCOLOR_ON"
+      ],
+      "props": {
+        "_Alpha": {
+          "value": 1,
+          "type": 3
+        },
+        "_BaseColor": {
+          "value": [
+            0.03529411554336548,
+            0.04313720017671585,
+            0.050980329513549805,
+            1
+          ],
+          "type": 0
+        },
+        "_EmissionColor": {
+          "value": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "type": 0
+        },
+        "_EmissionPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_TriplanarSmooth": {
+          "value": 20,
+          "type": 2
+        },
+        "_UseTriplanarSample": {
+          "value": 0,
+          "type": 2
+        },
+        "_ColorPower": {
+          "value": 1,
+          "type": 2
+        },
+        "_AlphaCutoff": {
+          "value": 0,
+          "type": 3
+        },
+        "_Metallic": {
+          "value": 0,
+          "type": 3
+        },
+        "_TriplanarTiling": {
+          "value": [
+            1,
+            1,
+            0,
+            0
+          ],
+          "type": 1
+        },
+        "_BaseTexSpeed": {
+          "value": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "type": 1
+        },
+        "_NormalScale": {
+          "value": 1,
+          "type": 3
+        },
+        "_Smoothness": {
+          "value": 0.30000001192092896,
+          "type": 3
+        },
+        "_UseVertexColor": {
+          "value": 1,
+          "type": 2
+        },
+        "_EmissionMaskSpeed": {
+          "value": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "type": 1
+        },
+        "_AOIntensity": {
+          "value": 1,
+          "type": 3
+        },
+        "_RimPower": {
+          "value": 0,
+          "type": 2
+        },
+        "_EmissionTexSpeed": {
+          "value": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "type": 1
+        },
+        "_FresnelInt": {
+          "value": 3,
+          "type": 3
+        },
+        "_TriplanarOffset": {
+          "value": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "type": 1
+        },
+        "_Cull_Mode": {
+          "value": 2,
+          "type": 2
+        },
+        "_ORMSpeed": {
+          "value": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "type": 1
+        },
+        "_CullMode": {
+          "value": 2,
+          "type": 2
+        },
+        "_NormalmapSpeed": {
+          "value": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "type": 1
+        },
+        "_RimColor": {
+          "value": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "type": 0
+        }
+      }
+    }
+  }
+}

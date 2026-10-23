@@ -1,0 +1,114 @@
+{
+  "name": "赤巡",
+  "rootId": 433861336,
+  "rootTransform": {
+    "pos": {
+      "x": 158.087784,
+      "y": 52.26828,
+      "z": -11.8243618
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.6,
+      "y": 0.6,
+      "z": 0.6
+    }
+  },
+  "driverScript": {
+    "nodeId": 433861336,
+    "nodeName": "赤巡",
+    "rootName": "赤巡",
+    "scriptId": "ce1504dd-0a40-4a70-87e3-c8175dc6e9f2",
+    "scriptType": 1,
+    "referencePath": "modules/pi-flame-motorcycle.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "rearLeftTaken": false,
+      "rearRightTaken": false,
+      "topSpeed": 32,
+      "acceleration": 23,
+      "braking": 28,
+      "turnSpeed": 66,
+      "grip": 0.91,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 4,
+      "coastingDrag": 4,
+      "sidewaysFriction": 10,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  "seatCount": 2,
+  "seatConfigLua": "local seatConfigs = {\n  { id = \"driver\", label = \"驾驶\", anchorPath = \"SeatAnchor_Driver\", canDrive = true, fallbackPosition = Vector3(0, 0.5742, -0.0723557) },\n  { id = \"front_passenger\", label = \"乘坐·后座\", anchorPath = \"SeatAnchor_FrontPassenger\", stationPath = \"SeatStation_FrontPassenger\", canDrive = false, fallbackPosition = Vector3(0, 0.7076, -0.426156) },\n}",
+  "wheelConfigLua": "local wheelConfigs = {\n  { name = \"FLAME_MOTO_Wheel_F\", radius = 0.5568, pivot = Vector3(0, 0.2784, 0.623644), visualScale = Vector3(1, 1, 1), parts = { \"FLAME_MOTO_Wheel_F_Part_01\" } },\n  { name = \"FLAME_MOTO_Wheel_R\", radius = 0.5916, pivot = Vector3(0, 0.2958, -0.559556), visualScale = Vector3(1, 1, 1), parts = { \"FLAME_MOTO_Wheel_R_Part_01\" } },\n}",
+  "materialIdentity": {
+    "name": "赤巡",
+    "parts": [
+      {
+        "name": "赤巡",
+        "subMeshes": 17,
+        "mats": [
+          139,
+          140,
+          141,
+          143,
+          139,
+          142,
+          144,
+          147,
+          144,
+          146,
+          146,
+          146,
+          144,
+          139,
+          145,
+          144,
+          139
+        ],
+        "vertices": 11768
+      },
+      {
+        "name": "FLAME_MOTO_Wheel_F_Part_01",
+        "subMeshes": 5,
+        "mats": [
+          139,
+          140,
+          146,
+          145,
+          144
+        ],
+        "vertices": 9016
+      },
+      {
+        "name": "FLAME_MOTO_Wheel_R_Part_01",
+        "subMeshes": 5,
+        "mats": [
+          139,
+          140,
+          146,
+          145,
+          144
+        ],
+        "vertices": 9016
+      }
+    ]
+  },
+  "assetFiles": [
+    "models/catalog/A036-FLAME_MOTO_Body_Part_01_0907_7d2c6119.glb",
+    "models/catalog/A037-FLAME_MOTO_Wheel_F_Part_01_0907_1f6faeb8.glb",
+    "models/catalog/A038-FLAME_MOTO_Wheel_R_Part_01_0907_f925e2d8.glb"
+  ]
+}

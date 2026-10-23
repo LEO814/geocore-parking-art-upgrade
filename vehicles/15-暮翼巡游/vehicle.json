@@ -1,0 +1,133 @@
+{
+  "name": "暮翼巡游",
+  "rootId": -1551948704,
+  "rootTransform": {
+    "pos": {
+      "x": 151.087784,
+      "y": 52.26828,
+      "z": 3.175646
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "scale": {
+      "x": 1.749,
+      "y": 1.749,
+      "z": 1.749
+    }
+  },
+  "driverScript": {
+    "nodeId": -1551948704,
+    "nodeName": "暮翼巡游",
+    "rootName": "暮翼巡游",
+    "scriptId": "9ce147c6-0d29-4356-be45-ac57634415af",
+    "scriptType": 1,
+    "referencePath": "modules/pi-c01-duskwing-parade.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "rearLeftTaken": false,
+      "rearRightTaken": false,
+      "topSpeed": 30,
+      "acceleration": 20,
+      "braking": 30,
+      "turnSpeed": 75,
+      "grip": 0.95,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 8,
+      "sidewaysFriction": 12,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  "seatCount": 2,
+  "seatConfigLua": "local seatConfigs = {\n  { id = \"driver\", label = \"驾驶·前座\", anchorPath = \"Seat_Driver\", canDrive = true, fallbackPosition = Vector3(0, 0.156154864743, 0.0726280871243) },\n  { id = \"front_passenger\", label = \"乘坐·后座\", anchorPath = \"Seat_Passenger\", stationPath = \"SeatStation_FrontPassenger\", canDrive = false, fallbackPosition = Vector3(0, 0.163562766667, -0.304266812602) },\n}",
+  "wheelConfigLua": "local wheelConfigs = {\n  { name = \"C01_WheelPivot_FL\", radius = 0.1705, pivot = Vector3(0.227987421384, 0.0974842767296, 0.297169811321), visualScale = Vector3.one, parts = { \"Wheel_FL\" } },\n  { name = \"C01_WheelPivot_FR\", radius = 0.1705, pivot = Vector3(-0.227987421384, 0.0974842767296, 0.297169811321), visualScale = Vector3.one, parts = { \"Wheel_FR\" } },\n  { name = \"C01_WheelPivot_RL\", radius = 0.198, pivot = Vector3(0.23427672956, 0.11320754717, -0.297169811321), visualScale = Vector3.one, parts = { \"Wheel_RL\" } },\n  { name = \"C01_WheelPivot_RR\", radius = 0.198, pivot = Vector3(-0.23427672956, 0.11320754717, -0.297169811321), visualScale = Vector3.one, parts = { \"Wheel_RR\" } },\n}",
+  "materialIdentity": {
+    "name": "暮翼巡游",
+    "hideCarrier": true,
+    "parts": [
+      {
+        "subMeshes": 11,
+        "strictVertices": false,
+        "name": "Body",
+        "mats": [
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158
+        ],
+        "vertices": 19261
+      },
+      {
+        "subMeshes": 4,
+        "strictVertices": false,
+        "name": "Wheel_FL",
+        "mats": [
+          148,
+          149,
+          150,
+          152
+        ],
+        "vertices": 2289
+      },
+      {
+        "subMeshes": 4,
+        "strictVertices": false,
+        "name": "Wheel_FR",
+        "mats": [
+          148,
+          149,
+          150,
+          152
+        ],
+        "vertices": 2289
+      },
+      {
+        "subMeshes": 4,
+        "strictVertices": false,
+        "name": "Wheel_RL",
+        "mats": [
+          148,
+          149,
+          150,
+          152
+        ],
+        "vertices": 2289
+      },
+      {
+        "subMeshes": 4,
+        "strictVertices": false,
+        "name": "Wheel_RR",
+        "mats": [
+          148,
+          149,
+          150,
+          152
+        ],
+        "vertices": 2289
+      }
+    ]
+  },
+  "assetFiles": [
+    "models/catalog/A061-C01-tandem-runtime.glb",
+    "models/catalog/A062-C01_DuskwingParade.glb"
+  ]
+}

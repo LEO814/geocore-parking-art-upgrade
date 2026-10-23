@@ -1,0 +1,38 @@
+[
+  {
+    "file": "source-reference/幽月巡航母港-原生优化版.blend",
+    "sourceWorkspacePath": "output/halloween-implementation-20261020/hub/幽月巡航母港-原生优化版.blend",
+    "sha256": "c3e87354cde1dbe14899f9546ab77e49c1731337f058f80d8137bb8077b1094b",
+    "status": "supplemental-source-not-verified-identical-to-current-GLB"
+  },
+  {
+    "file": "source-reference/万圣节大型地标-可编辑源.blend",
+    "sourceWorkspacePath": "output/halloween-upgrade-20261020/landmarks/万圣节大型地标-可编辑源.blend",
+    "sha256": "2b46dfb9df9fd794819aa01227dd43aae44cb3f2f877c6c8ce66c2911a45ae9e",
+    "status": "supplemental-source-not-verified-identical-to-current-GLB"
+  },
+  {
+    "file": "source-reference/C01-tandem-editable.blend",
+    "sourceWorkspacePath": "output/halloween-upgrade-20261020/vehicles/C01-tandem-editable.blend",
+    "sha256": "8f475a831fcb326c4c642fecc109b4058681326e55e63409d29860b27beb84ab",
+    "status": "supplemental-source-not-verified-identical-to-current-GLB"
+  },
+  {
+    "file": "source-reference/C02-tandem-editable.blend",
+    "sourceWorkspacePath": "output/halloween-upgrade-20261020/vehicles/C02-tandem-editable.blend",
+    "sha256": "9e2515b5331db21de194b7d5bb998622ce71fad244a96eb86238face8e27c2e5",
+    "status": "supplemental-source-not-verified-identical-to-current-GLB"
+  },
+  {
+    "file": "source-reference/NPC04-continuous-skin.blend",
+    "sourceWorkspacePath": "output/halloween-stage-fixes-20261021/models/NPC04-continuous-skin.blend",
+    "sha256": "e95bf203d9f5c0b9e75147d68aa8a053e1237366d8d8270fff0e54bbe0dd7fb3",
+    "status": "supplemental-source-not-verified-identical-to-current-GLB"
+  },
+  {
+    "file": "source-reference/NPC03-continuous-skin.blend",
+    "sourceWorkspacePath": "output/halloween-stage-fixes-20261021/models/NPC03-continuous-skin.blend",
+    "sha256": "b3f70c615b969d7731b8d2dd1f9746c218b0d8d563069eb41a04cb36da9aca06",
+    "status": "supplemental-source-not-verified-identical-to-current-GLB"
+  }
+]

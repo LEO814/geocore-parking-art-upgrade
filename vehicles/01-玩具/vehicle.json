@@ -1,0 +1,204 @@
+{
+  "name": "玩具",
+  "rootId": 1832923071,
+  "rootTransform": {
+    "pos": {
+      "x": 193.087784,
+      "y": 52.26828,
+      "z": -11.8243618
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.2,
+      "y": 1.2,
+      "z": 1.2
+    }
+  },
+  "driverScript": {
+    "nodeId": 1832923071,
+    "nodeName": "玩具",
+    "rootName": "玩具",
+    "scriptId": "8de0f771-fd69-4eaf-9b49-0fe93a76cba0",
+    "scriptType": 1,
+    "referencePath": "modules/pi-lp03-toybox.lua",
+    "params": {
+      "driverTaken": false,
+      "frontPassengerTaken": false,
+      "driverOccupantActorId": 0,
+      "frontPassengerOccupantActorId": 0,
+      "raceResetCompletedCycleId": "",
+      "raceResetPhysicalClaimCycleId": "",
+      "raceResetPhysicalDoneCycleId": "",
+      "rearLeftTaken": false,
+      "rearRightTaken": false,
+      "topSpeed": 29,
+      "acceleration": 26,
+      "braking": 36,
+      "turnSpeed": 75,
+      "grip": 0.95,
+      "cameraFollowEnabled": true,
+      "reverseSpeed": 7,
+      "coastingDrag": 8,
+      "sidewaysFriction": 12,
+      "cameraAlignSpeed": 120,
+      "cameraAlignGrace": 0.45,
+      "raceSessionStageSnapshot": ""
+    }
+  },
+  "seatCount": 2,
+  "seatConfigLua": "local seatConfigs = {\n  { id = \"driver\", label = \"驾驶\", anchorPath = \"SeatAnchor_Driver\", canDrive = true, fallbackPosition = Vector3(-0.129745, 0.251208, -0.1049) },\n  { id = \"front_passenger\", label = \"乘坐·副驾\", anchorPath = \"SeatAnchor_FrontPassenger\", stationPath = \"SeatStation_FrontPassenger\", canDrive = false, fallbackPosition = Vector3(0.129745, 0.251208, -0.1049) },\n}",
+  "wheelConfigLua": "local wheelConfigs = {\n  { name = \"LP03_TOYBOX_Wheel_FL\", radius = 0.309179, pivot = Vector3(-0.372671, 0.154589, 0.309179), visualScale = Vector3(0.358868177, 0.358868177, 0.358868177), parts = { \"LP03_TOYBOX_Wheel_FL_Part_01\" } },\n  { name = \"LP03_TOYBOX_Wheel_FR\", radius = 0.309179, pivot = Vector3(0.372671, 0.154589, 0.309179), visualScale = Vector3(0.358868177, 0.358868177, 0.358868177), parts = { \"LP03_TOYBOX_Wheel_FR_Part_01\" } },\n  { name = \"LP03_TOYBOX_Wheel_RL\", radius = 0.309179, pivot = Vector3(-0.372671, 0.16011, -0.303658), visualScale = Vector3(0.358868177, 0.358868177, 0.358868177), parts = { \"LP03_TOYBOX_Wheel_RL_Part_01\" } },\n  { name = \"LP03_TOYBOX_Wheel_RR\", radius = 0.309179, pivot = Vector3(0.372671, 0.16011, -0.303658), visualScale = Vector3(0.358868177, 0.358868177, 0.358868177), parts = { \"LP03_TOYBOX_Wheel_RR_Part_01\" } },\n}",
+  "materialIdentity": {
+    "name": "玩具",
+    "parts": [
+      {
+        "name": "玩具",
+        "subMeshes": 45,
+        "mats": [
+          1,
+          2,
+          3,
+          3,
+          4,
+          3,
+          3,
+          5,
+          5,
+          2,
+          2,
+          3,
+          4,
+          3,
+          2,
+          3,
+          3,
+          3,
+          2,
+          4,
+          4,
+          2,
+          6,
+          2,
+          7,
+          7,
+          4,
+          1,
+          1,
+          1,
+          4,
+          4,
+          2,
+          2,
+          1,
+          2,
+          1,
+          1,
+          1,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ],
+        "vertices": 14260
+      },
+      {
+        "name": "LP03_TOYBOX_Wheel_FL_Part_01",
+        "subMeshes": 14,
+        "mats": [
+          9,
+          3,
+          1,
+          8,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "vertices": 900
+      },
+      {
+        "name": "LP03_TOYBOX_Wheel_FR_Part_01",
+        "subMeshes": 14,
+        "mats": [
+          9,
+          3,
+          1,
+          8,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "vertices": 900
+      },
+      {
+        "name": "LP03_TOYBOX_Wheel_RL_Part_01",
+        "subMeshes": 14,
+        "mats": [
+          9,
+          3,
+          1,
+          8,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "vertices": 900
+      },
+      {
+        "name": "LP03_TOYBOX_Wheel_RR_Part_01",
+        "subMeshes": 14,
+        "mats": [
+          9,
+          3,
+          1,
+          8,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "vertices": 900
+      }
+    ]
+  },
+  "assetFiles": [
+    "models/catalog/A003-01-toybox-original-materials-taken-actor-runtime-v2.glb",
+    "models/catalog/A004-LP03_TOYBOX-fl-01-of-01.glb",
+    "models/catalog/A005-LP03_TOYBOX-fr-01-of-01.glb",
+    "models/catalog/A006-LP03_TOYBOX-rl-01-of-01.glb",
+    "models/catalog/A007-LP03_TOYBOX-rr-01-of-01.glb"
+  ]
+}

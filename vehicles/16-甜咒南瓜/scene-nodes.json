@@ -1,0 +1,1021 @@
+[
+  {
+    "nodeName": "甜咒南瓜",
+    "pos": {
+      "x": 144.087784,
+      "y": 52.26828,
+      "z": 3.175646
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "scale": {
+      "x": 1.68,
+      "y": 1.68,
+      "z": 1.68
+    },
+    "tag": "Untagged",
+    "aigcModelData": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/C02-tandem-runtime__upload_ibnbqlnn.glb",
+      "meshRefId": 0,
+      "isShowTex": true,
+      "opType": 2
+    },
+    "terrainDisplayData": null,
+    "waterDisplayData": null,
+    "riverDisplayData": null,
+    "waterBodyAuthoringData": null,
+    "localPrefabData": null,
+    "appearanceData": null,
+    "waterAppearanceData": null,
+    "physicsColliderData": {
+      "enableCollision": true,
+      "dynamicFriction": 0.6,
+      "staticFriction": 0.6,
+      "bounciness": 0.0,
+      "enableRigidBody": true,
+      "mass": 100.0,
+      "drag": 0.6,
+      "angularDrag": 5.0,
+      "useGravity": true,
+      "isKinematic": false
+    },
+    "assetData": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/C02-tandem-runtime__upload_ibnbqlnn.glb",
+      "assetID": "11000763066114"
+    },
+    "animatorData": null,
+    "ugcAnimatorData": null,
+    "glbSliceData": {
+      "sourceUri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/C02-tandem-runtime__upload_ibnbqlnn.glb",
+      "sourceMeshRefId": 0,
+      "slicePath": [],
+      "debugSlicePath": "",
+      "isShowTex": true,
+      "opType": 2
+    },
+    "editorOnlyData": {
+      "isLock": false,
+      "isGroupRoot": false,
+      "editorData": ""
+    },
+    "lightData": null,
+    "text3DData": null,
+    "billboardPlantData": null,
+    "runtimeScriptBindings": [
+      {
+        "scriptId": "d6f83b17-d36c-4840-ae2a-b896be27b101",
+        "scriptType": 1,
+        "paramsJson": "{}"
+      },
+      {
+        "scriptId": "1a1f1fbf-d1d3-4999-81c5-3aa3ed3269b0",
+        "scriptType": 1,
+        "paramsJson": "{\"driverTaken\":false,\"frontPassengerTaken\":false,\"driverOccupantActorId\":0,\"frontPassengerOccupantActorId\":0,\"raceResetCompletedCycleId\":\"\",\"raceResetPhysicalClaimCycleId\":\"\",\"raceResetPhysicalDoneCycleId\":\"\",\"rearLeftTaken\":false,\"rearRightTaken\":false,\"topSpeed\":30,\"acceleration\":20,\"braking\":30,\"turnSpeed\":75,\"grip\":0.95,\"cameraFollowEnabled\":true,\"reverseSpeed\":7,\"coastingDrag\":8,\"sidewaysFriction\":12,\"cameraAlignSpeed\":120,\"cameraAlignGrace\":0.45,\"raceSessionStageSnapshot\":\"\"}"
+      },
+      {
+        "scriptId": "470fcf4c-157b-4b91-8b0e-1e71137e803a",
+        "scriptType": 1,
+        "paramsJson": "{}"
+      }
+    ],
+    "id": -1523312224,
+    "parentId": 0,
+    "isActive": true,
+    "layer": 9,
+    "isGameMod": false,
+    "isStatic": false
+  },
+  {
+    "nodeName": "Body",
+    "pos": {
+      "x": 144.087784,
+      "y": 52.26828,
+      "z": 3.175646
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "tag": "Untagged",
+    "aigcModelData": null,
+    "terrainDisplayData": null,
+    "waterDisplayData": null,
+    "riverDisplayData": null,
+    "waterBodyAuthoringData": null,
+    "localPrefabData": null,
+    "appearanceData": {
+      "presetName": "Default",
+      "color": {
+        "r": 0.97647053,
+        "g": 0.5372547,
+        "b": 0.1254901,
+        "a": 1.0
+      },
+      "emissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "metallic": 0.45,
+      "roughness": 0.230000019,
+      "emissionPower": 0.0,
+      "useTriplanarSample": false,
+      "visible": true,
+      "castShadows": true,
+      "isModified": true,
+      "waterDualColor": {
+        "color1": {
+          "r": 0.0,
+          "g": 0.8784314,
+          "b": 0.8666667,
+          "a": 1.0
+        },
+        "color2": {
+          "r": 0.0,
+          "g": 0.447058827,
+          "b": 0.549019635,
+          "a": 1.0
+        }
+      },
+      "transparency": 1.0,
+      "waveDensity": 1.0,
+      "waveSpeed": 1.0,
+      "waveDirection": 0.0
+    },
+    "waterAppearanceData": null,
+    "physicsColliderData": {
+      "enableCollision": false,
+      "dynamicFriction": 0.6,
+      "staticFriction": 0.6,
+      "bounciness": 0.0,
+      "enableRigidBody": false,
+      "mass": 0.265890539,
+      "drag": 0.0,
+      "angularDrag": 0.0,
+      "useGravity": true,
+      "isKinematic": false
+    },
+    "assetData": null,
+    "animatorData": null,
+    "ugcAnimatorData": null,
+    "glbSliceData": {
+      "sourceUri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/C02_FullPumpkinBody_Final__upload_ah9jy47u.glb",
+      "sourceMeshRefId": 0,
+      "slicePath": [
+        0
+      ],
+      "debugSlicePath": "Body",
+      "isShowTex": true,
+      "opType": 4
+    },
+    "editorOnlyData": {
+      "isLock": false,
+      "isGroupRoot": false,
+      "editorData": ""
+    },
+    "lightData": null,
+    "text3DData": null,
+    "billboardPlantData": null,
+    "id": 1963922806,
+    "parentId": -1523312224,
+    "isActive": true,
+    "layer": 9,
+    "isGameMod": false,
+    "isStatic": false
+  },
+  {
+    "nodeName": "Wheel_FL",
+    "pos": {
+      "x": 143.694778,
+      "y": 52.44528,
+      "z": 2.722648
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "tag": "Untagged",
+    "aigcModelData": null,
+    "terrainDisplayData": null,
+    "waterDisplayData": null,
+    "riverDisplayData": null,
+    "waterBodyAuthoringData": null,
+    "localPrefabData": null,
+    "appearanceData": {
+      "presetName": "Default",
+      "color": {
+        "r": 0.97647053,
+        "g": 0.5372547,
+        "b": 0.1254901,
+        "a": 1.0
+      },
+      "emissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "metallic": 0.45,
+      "roughness": 0.230000019,
+      "emissionPower": 0.0,
+      "useTriplanarSample": false,
+      "visible": true,
+      "castShadows": true,
+      "isModified": true,
+      "waterDualColor": {
+        "color1": {
+          "r": 0.0,
+          "g": 0.8784314,
+          "b": 0.8666667,
+          "a": 1.0
+        },
+        "color2": {
+          "r": 0.0,
+          "g": 0.447058827,
+          "b": 0.549019635,
+          "a": 1.0
+        }
+      },
+      "transparency": 1.0,
+      "waveDensity": 1.0,
+      "waveSpeed": 1.0,
+      "waveDirection": 0.0
+    },
+    "waterAppearanceData": null,
+    "physicsColliderData": {
+      "enableCollision": false,
+      "dynamicFriction": 0.6,
+      "staticFriction": 0.6,
+      "bounciness": 0.0,
+      "enableRigidBody": false,
+      "mass": 0.00487753,
+      "drag": 0.0,
+      "angularDrag": 0.0,
+      "useGravity": true,
+      "isKinematic": false
+    },
+    "assetData": null,
+    "animatorData": null,
+    "ugcAnimatorData": null,
+    "glbSliceData": {
+      "sourceUri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/C02_FullPumpkinBody_Final__upload_ah9jy47u.glb",
+      "sourceMeshRefId": 0,
+      "slicePath": [
+        1
+      ],
+      "debugSlicePath": "Wheel_FL",
+      "isShowTex": true,
+      "opType": 4
+    },
+    "editorOnlyData": {
+      "isLock": false,
+      "isGroupRoot": false,
+      "editorData": ""
+    },
+    "lightData": null,
+    "text3DData": null,
+    "billboardPlantData": null,
+    "id": 318501250,
+    "parentId": -1523312224,
+    "isActive": true,
+    "layer": 9,
+    "isGameMod": false,
+    "isStatic": false
+  },
+  {
+    "nodeName": "Wheel_FR",
+    "pos": {
+      "x": 144.480789,
+      "y": 52.44528,
+      "z": 2.722648
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "tag": "Untagged",
+    "aigcModelData": null,
+    "terrainDisplayData": null,
+    "waterDisplayData": null,
+    "riverDisplayData": null,
+    "waterBodyAuthoringData": null,
+    "localPrefabData": null,
+    "appearanceData": {
+      "presetName": "Default",
+      "color": {
+        "r": 0.97647053,
+        "g": 0.5372547,
+        "b": 0.1254901,
+        "a": 1.0
+      },
+      "emissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "metallic": 0.45,
+      "roughness": 0.230000019,
+      "emissionPower": 0.0,
+      "useTriplanarSample": false,
+      "visible": true,
+      "castShadows": true,
+      "isModified": true,
+      "waterDualColor": {
+        "color1": {
+          "r": 0.0,
+          "g": 0.8784314,
+          "b": 0.8666667,
+          "a": 1.0
+        },
+        "color2": {
+          "r": 0.0,
+          "g": 0.447058827,
+          "b": 0.549019635,
+          "a": 1.0
+        }
+      },
+      "transparency": 1.0,
+      "waveDensity": 1.0,
+      "waveSpeed": 1.0,
+      "waveDirection": 0.0
+    },
+    "waterAppearanceData": null,
+    "physicsColliderData": {
+      "enableCollision": false,
+      "dynamicFriction": 0.6,
+      "staticFriction": 0.6,
+      "bounciness": 0.0,
+      "enableRigidBody": false,
+      "mass": 0.00487753,
+      "drag": 0.0,
+      "angularDrag": 0.0,
+      "useGravity": true,
+      "isKinematic": false
+    },
+    "assetData": null,
+    "animatorData": null,
+    "ugcAnimatorData": null,
+    "glbSliceData": {
+      "sourceUri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/C02_FullPumpkinBody_Final__upload_ah9jy47u.glb",
+      "sourceMeshRefId": 0,
+      "slicePath": [
+        2
+      ],
+      "debugSlicePath": "Wheel_FR",
+      "isShowTex": true,
+      "opType": 4
+    },
+    "editorOnlyData": {
+      "isLock": false,
+      "isGroupRoot": false,
+      "editorData": ""
+    },
+    "lightData": null,
+    "text3DData": null,
+    "billboardPlantData": null,
+    "id": -1035504504,
+    "parentId": -1523312224,
+    "isActive": true,
+    "layer": 9,
+    "isGameMod": false,
+    "isStatic": false
+  },
+  {
+    "nodeName": "Wheel_RL",
+    "pos": {
+      "x": 143.70079,
+      "y": 52.45728,
+      "z": 3.6286447
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "tag": "Untagged",
+    "aigcModelData": null,
+    "terrainDisplayData": null,
+    "waterDisplayData": null,
+    "riverDisplayData": null,
+    "waterBodyAuthoringData": null,
+    "localPrefabData": null,
+    "appearanceData": {
+      "presetName": "Default",
+      "color": {
+        "r": 0.97647053,
+        "g": 0.5372547,
+        "b": 0.1254901,
+        "a": 1.0
+      },
+      "emissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "metallic": 0.45,
+      "roughness": 0.230000019,
+      "emissionPower": 0.0,
+      "useTriplanarSample": false,
+      "visible": true,
+      "castShadows": true,
+      "isModified": true,
+      "waterDualColor": {
+        "color1": {
+          "r": 0.0,
+          "g": 0.8784314,
+          "b": 0.8666667,
+          "a": 1.0
+        },
+        "color2": {
+          "r": 0.0,
+          "g": 0.447058827,
+          "b": 0.549019635,
+          "a": 1.0
+        }
+      },
+      "transparency": 1.0,
+      "waveDensity": 1.0,
+      "waveSpeed": 1.0,
+      "waveDirection": 0.0
+    },
+    "waterAppearanceData": null,
+    "physicsColliderData": {
+      "enableCollision": false,
+      "dynamicFriction": 0.6,
+      "staticFriction": 0.6,
+      "bounciness": 0.0,
+      "enableRigidBody": false,
+      "mass": 0.00592291728,
+      "drag": 0.0,
+      "angularDrag": 0.0,
+      "useGravity": true,
+      "isKinematic": false
+    },
+    "assetData": null,
+    "animatorData": null,
+    "ugcAnimatorData": null,
+    "glbSliceData": {
+      "sourceUri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/C02_FullPumpkinBody_Final__upload_ah9jy47u.glb",
+      "sourceMeshRefId": 0,
+      "slicePath": [
+        3
+      ],
+      "debugSlicePath": "Wheel_RL",
+      "isShowTex": true,
+      "opType": 4
+    },
+    "editorOnlyData": {
+      "isLock": false,
+      "isGroupRoot": false,
+      "editorData": ""
+    },
+    "lightData": null,
+    "text3DData": null,
+    "billboardPlantData": null,
+    "id": 1229248563,
+    "parentId": -1523312224,
+    "isActive": true,
+    "layer": 9,
+    "isGameMod": false,
+    "isStatic": false
+  },
+  {
+    "nodeName": "Wheel_RR",
+    "pos": {
+      "x": 144.474777,
+      "y": 52.45728,
+      "z": 3.6286447
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "tag": "Untagged",
+    "aigcModelData": null,
+    "terrainDisplayData": null,
+    "waterDisplayData": null,
+    "riverDisplayData": null,
+    "waterBodyAuthoringData": null,
+    "localPrefabData": null,
+    "appearanceData": {
+      "presetName": "Default",
+      "color": {
+        "r": 0.97647053,
+        "g": 0.5372547,
+        "b": 0.1254901,
+        "a": 1.0
+      },
+      "emissionColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "metallic": 0.45,
+      "roughness": 0.230000019,
+      "emissionPower": 0.0,
+      "useTriplanarSample": false,
+      "visible": true,
+      "castShadows": true,
+      "isModified": true,
+      "waterDualColor": {
+        "color1": {
+          "r": 0.0,
+          "g": 0.8784314,
+          "b": 0.8666667,
+          "a": 1.0
+        },
+        "color2": {
+          "r": 0.0,
+          "g": 0.447058827,
+          "b": 0.549019635,
+          "a": 1.0
+        }
+      },
+      "transparency": 1.0,
+      "waveDensity": 1.0,
+      "waveSpeed": 1.0,
+      "waveDirection": 0.0
+    },
+    "waterAppearanceData": null,
+    "physicsColliderData": {
+      "enableCollision": false,
+      "dynamicFriction": 0.6,
+      "staticFriction": 0.6,
+      "bounciness": 0.0,
+      "enableRigidBody": false,
+      "mass": 0.00592291728,
+      "drag": 0.0,
+      "angularDrag": 0.0,
+      "useGravity": true,
+      "isKinematic": false
+    },
+    "assetData": null,
+    "animatorData": null,
+    "ugcAnimatorData": null,
+    "glbSliceData": {
+      "sourceUri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/C02_FullPumpkinBody_Final__upload_ah9jy47u.glb",
+      "sourceMeshRefId": 0,
+      "slicePath": [
+        4
+      ],
+      "debugSlicePath": "Wheel_RR",
+      "isShowTex": true,
+      "opType": 4
+    },
+    "editorOnlyData": {
+      "isLock": false,
+      "isGroupRoot": false,
+      "editorData": ""
+    },
+    "lightData": null,
+    "text3DData": null,
+    "billboardPlantData": null,
+    "id": 1256322141,
+    "parentId": -1523312224,
+    "isActive": true,
+    "layer": 9,
+    "isGameMod": false,
+    "isStatic": false
+  },
+  {
+    "nodeName": "Seat_Driver",
+    "pos": {
+      "x": 144.087784,
+      "y": 52.5389481,
+      "z": 3.00284052
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "tag": "Untagged",
+    "aigcModelData": null,
+    "terrainDisplayData": null,
+    "waterDisplayData": null,
+    "riverDisplayData": null,
+    "waterBodyAuthoringData": null,
+    "localPrefabData": null,
+    "appearanceData": null,
+    "waterAppearanceData": null,
+    "physicsColliderData": null,
+    "assetData": null,
+    "animatorData": null,
+    "ugcAnimatorData": null,
+    "glbSliceData": {
+      "sourceUri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/C02_FullPumpkinBody_Final__upload_ah9jy47u.glb",
+      "sourceMeshRefId": 0,
+      "slicePath": [
+        5
+      ],
+      "debugSlicePath": "Seat_Driver",
+      "isShowTex": true,
+      "opType": 4
+    },
+    "editorOnlyData": {
+      "isLock": false,
+      "isGroupRoot": false,
+      "editorData": ""
+    },
+    "lightData": null,
+    "text3DData": null,
+    "billboardPlantData": null,
+    "id": 913866090,
+    "parentId": -1523312224,
+    "isActive": true,
+    "layer": 9,
+    "isGameMod": false,
+    "isStatic": false
+  },
+  {
+    "nodeName": "Seat_Passenger",
+    "pos": {
+      "x": 144.087784,
+      "y": 52.5508041,
+      "z": 3.6788702
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "tag": "Untagged",
+    "aigcModelData": null,
+    "terrainDisplayData": null,
+    "waterDisplayData": null,
+    "riverDisplayData": null,
+    "waterBodyAuthoringData": null,
+    "localPrefabData": null,
+    "appearanceData": null,
+    "waterAppearanceData": null,
+    "physicsColliderData": null,
+    "assetData": null,
+    "animatorData": null,
+    "ugcAnimatorData": null,
+    "glbSliceData": {
+      "sourceUri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/C02_FullPumpkinBody_Final__upload_ah9jy47u.glb",
+      "sourceMeshRefId": 0,
+      "slicePath": [
+        6
+      ],
+      "debugSlicePath": "Seat_Passenger",
+      "isShowTex": true,
+      "opType": 4
+    },
+    "editorOnlyData": {
+      "isLock": false,
+      "isGroupRoot": false,
+      "editorData": ""
+    },
+    "lightData": null,
+    "text3DData": null,
+    "billboardPlantData": null,
+    "id": 1410925782,
+    "parentId": -1523312224,
+    "isActive": true,
+    "layer": 9,
+    "isGameMod": false,
+    "isStatic": false
+  },
+  {
+    "nodeName": "SeatStation_FrontPassenger",
+    "pos": {
+      "x": 144.087784,
+      "y": 52.5508041,
+      "z": 3.6788702
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "tag": "Untagged",
+    "aigcModelData": null,
+    "terrainDisplayData": null,
+    "waterDisplayData": null,
+    "riverDisplayData": null,
+    "waterBodyAuthoringData": null,
+    "localPrefabData": null,
+    "appearanceData": null,
+    "waterAppearanceData": null,
+    "physicsColliderData": null,
+    "assetData": null,
+    "animatorData": null,
+    "ugcAnimatorData": null,
+    "glbSliceData": {
+      "sourceUri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/C02_FullPumpkinBody_Final__upload_ah9jy47u.glb",
+      "sourceMeshRefId": 0,
+      "slicePath": [
+        7
+      ],
+      "debugSlicePath": "SeatStation_FrontPassenger",
+      "isShowTex": true,
+      "opType": 4
+    },
+    "editorOnlyData": {
+      "isLock": false,
+      "isGroupRoot": false,
+      "editorData": ""
+    },
+    "lightData": null,
+    "text3DData": null,
+    "billboardPlantData": null,
+    "runtimeScriptBindings": [
+      {
+        "scriptId": "dafb9e9f-3e96-40fb-8fc3-8384dd7687e2",
+        "scriptType": 1,
+        "paramsJson": "{\"seatId\":\"front_passenger\",\"vehicleScriptName\":\"pi-c02-candy-hex.lua\"}"
+      }
+    ],
+    "id": -1596429152,
+    "parentId": -1523312224,
+    "isActive": true,
+    "layer": 9,
+    "isGameMod": false,
+    "isStatic": false
+  },
+  {
+    "nodeName": "Steering_Wheel",
+    "pos": {
+      "x": 144.087784,
+      "y": 52.7167969,
+      "z": 2.62450814
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "tag": "Untagged",
+    "aigcModelData": null,
+    "terrainDisplayData": null,
+    "waterDisplayData": null,
+    "riverDisplayData": null,
+    "waterBodyAuthoringData": null,
+    "localPrefabData": null,
+    "appearanceData": null,
+    "waterAppearanceData": null,
+    "physicsColliderData": null,
+    "assetData": null,
+    "animatorData": null,
+    "ugcAnimatorData": null,
+    "glbSliceData": {
+      "sourceUri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/C02_FullPumpkinBody_Final__upload_ah9jy47u.glb",
+      "sourceMeshRefId": 0,
+      "slicePath": [
+        8
+      ],
+      "debugSlicePath": "Steering_Wheel",
+      "isShowTex": true,
+      "opType": 4
+    },
+    "editorOnlyData": {
+      "isLock": false,
+      "isGroupRoot": false,
+      "editorData": ""
+    },
+    "lightData": null,
+    "text3DData": null,
+    "billboardPlantData": null,
+    "id": 1284026666,
+    "parentId": -1523312224,
+    "isActive": true,
+    "layer": 9,
+    "isGameMod": false,
+    "isStatic": false
+  },
+  {
+    "nodeName": "FX_Exhaust_L",
+    "pos": {
+      "x": 143.895782,
+      "y": 52.6990128,
+      "z": 3.86183429
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "tag": "Untagged",
+    "aigcModelData": null,
+    "terrainDisplayData": null,
+    "waterDisplayData": null,
+    "riverDisplayData": null,
+    "waterBodyAuthoringData": null,
+    "localPrefabData": null,
+    "appearanceData": null,
+    "waterAppearanceData": null,
+    "physicsColliderData": null,
+    "assetData": null,
+    "animatorData": null,
+    "ugcAnimatorData": null,
+    "glbSliceData": {
+      "sourceUri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/C02_FullPumpkinBody_Final__upload_ah9jy47u.glb",
+      "sourceMeshRefId": 0,
+      "slicePath": [
+        9
+      ],
+      "debugSlicePath": "FX_Exhaust_L",
+      "isShowTex": true,
+      "opType": 4
+    },
+    "editorOnlyData": {
+      "isLock": false,
+      "isGroupRoot": false,
+      "editorData": ""
+    },
+    "lightData": null,
+    "text3DData": null,
+    "billboardPlantData": null,
+    "id": 271911800,
+    "parentId": -1523312224,
+    "isActive": true,
+    "layer": 9,
+    "isGameMod": false,
+    "isStatic": false
+  },
+  {
+    "nodeName": "FX_Exhaust_R",
+    "pos": {
+      "x": 144.279785,
+      "y": 52.6990128,
+      "z": 3.86183429
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "tag": "Untagged",
+    "aigcModelData": null,
+    "terrainDisplayData": null,
+    "waterDisplayData": null,
+    "riverDisplayData": null,
+    "waterBodyAuthoringData": null,
+    "localPrefabData": null,
+    "appearanceData": null,
+    "waterAppearanceData": null,
+    "physicsColliderData": null,
+    "assetData": null,
+    "animatorData": null,
+    "ugcAnimatorData": null,
+    "glbSliceData": {
+      "sourceUri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/C02_FullPumpkinBody_Final__upload_ah9jy47u.glb",
+      "sourceMeshRefId": 0,
+      "slicePath": [
+        10
+      ],
+      "debugSlicePath": "FX_Exhaust_R",
+      "isShowTex": true,
+      "opType": 4
+    },
+    "editorOnlyData": {
+      "isLock": false,
+      "isGroupRoot": false,
+      "editorData": ""
+    },
+    "lightData": null,
+    "text3DData": null,
+    "billboardPlantData": null,
+    "id": 680886586,
+    "parentId": -1523312224,
+    "isActive": true,
+    "layer": 9,
+    "isGameMod": false,
+    "isStatic": false
+  },
+  {
+    "nodeName": "FX_Face",
+    "pos": {
+      "x": 144.087784,
+      "y": 52.6219444,
+      "z": 2.31130171
+    },
+    "rot": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "tag": "Untagged",
+    "aigcModelData": null,
+    "terrainDisplayData": null,
+    "waterDisplayData": null,
+    "riverDisplayData": null,
+    "waterBodyAuthoringData": null,
+    "localPrefabData": null,
+    "appearanceData": null,
+    "waterAppearanceData": null,
+    "physicsColliderData": null,
+    "assetData": null,
+    "animatorData": null,
+    "ugcAnimatorData": null,
+    "glbSliceData": {
+      "sourceUri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAyIQDWHr5Q0NjO67oGX6DfYicWp-0IbjoECcIFEri7eg/C02_FullPumpkinBody_Final__upload_ah9jy47u.glb",
+      "sourceMeshRefId": 0,
+      "slicePath": [
+        11
+      ],
+      "debugSlicePath": "FX_Face",
+      "isShowTex": true,
+      "opType": 4
+    },
+    "editorOnlyData": {
+      "isLock": false,
+      "isGroupRoot": false,
+      "editorData": ""
+    },
+    "lightData": null,
+    "text3DData": null,
+    "billboardPlantData": null,
+    "id": -180028850,
+    "parentId": -1523312224,
+    "isActive": true,
+    "layer": 9,
+    "isGameMod": false,
+    "isStatic": false
+  }
+]
